@@ -47,6 +47,8 @@
 
 - [C4](https://github.com/ic4/schedule)（携程分享会）
 
+- [OpenParty](http://www.beijing-open-party.org/)（由北京的多个技术社区共同举办的社交活动）
+
 
 ### community
 
@@ -72,11 +74,51 @@
 
 - [CSSer!](http://www.csser.com/)（网站更新中）
 
+- [jsdo.it](http://jsdo.it/)（share JavaScript, HTML5 and CSS）
+
 - [AngularJS Nice Things](http://www.ngnice.com/)
 
 ### UED
 
-- []
+#### 百度系
+
+- [FEX](http://fex.baidu.com/)（WEB前端研发部，做最专业的前端）
+
+- [EFE Tech](http://efe.baidu.com/)（ Excellent FrontEnd技术体系）
+
+- [MUX](http://mux.baidu.com/)（移动用户体验部）
+
+- [Search UX](http://ued.baidu.com/)（搜索用户体验中心）
+
+#### 阿里系
+
+- [中文UED](http://www.aliued.cn/)（用户体验设计部 | 有一点设计UED团队）
+
+- [TaoBaoUED](http://ued.taobao.org/)（做地球上最好的UED）
+
+- [阿里妈妈MUX](http://mux.alimama.com/)
+
+#### 腾讯系
+
+- [AlloyTeam](http://www.alloyteam.com/)（Web前端，愿景: 成为业界卓越的Web团队！）
+
+- [ISUX](http://isux.tencent.com/)（社交用户体验设计，Better Experience Through Design）
+
+- [CDC](http://cdc.tencent.com/)（设计团队，做世界一流的互联网设计团队，为用户创造优质在线生活体验）
+
+- [TGideas](http://tgideas.qq.com/)（游戏官方设计团队）
+
+- [MXD](http://mxd.tencent.com/)（移动互联网设计中心）
+
+- [TID](http://tid.tenpay.com/)（财付通设计中心，让生活支付更完美）
+
+#### 搜狐系
+
+#### 新浪系
+
+#### 网易系
+
+#### 其他
 
 ### site
 
@@ -102,13 +144,13 @@
 
 ### blog
 
-- [W3CPlus | css3教程-css3实例-css3动画 | 记述前端那些事——引领Web前沿](http://www.w3cplus.com/)
+- [W3CPlus | css3教程-css3实例-css3动画 | 记述前端那些事——引领Web前沿](http://www.w3cplus.com/)（大漠，携程前段工程师）
 
-- [阮一峰的个人网站 - Ruan YiFeng's Personal Website](http://www.ruanyifeng.com/)
+- [阮一峰的个人网站 - Ruan YiFeng's Personal Website](http://www.ruanyifeng.com/)（阮一峰，阿里杭州前端工程师）
 
-- [张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/)
+- [张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/)（张鑫旭，腾讯上海ISUX前端工程师）
 
-- [CSS森林](http://www.cssforest.org/)
+- [CSS森林](http://www.cssforest.org/)（鬼哥，腾讯深圳页面重构师）
 
 - [颜海镜](http://yanhaijing.com/)
 
@@ -116,13 +158,31 @@
 
 - [彬Go的个人网站 - 前端开发工程师|前端开发主管](http://www.bingo929.com/)
 
-- [前端观察 | 专注于网站前端设计与前端开发](http://www.qianduan.net/)
+- [前端观察 | 专注于网站前端设计与前端开发](http://www.qianduan.net/)（神飞，腾讯深圳微信设计团队）
 
 - [Twinsen Liang-je m' appelle twinsèn.](http://www.twinsenliang.net/)
 
-- [hax的技术部落格 - ITeye技术网站](http://hax.iteye.com/)（贺师俊）
+- [hax的技术部落格 - ITeye技术网站](http://hax.iteye.com/)（[贺师俊](http://johnhax.net/)，百姓网前端工程师）
 
-- [Kejun's Blog](http://hikejun.com/blog/)（张克军）
+- [Kejun's Blog](http://hikejun.com/blog/)（张克军，豆瓣前端工程师）
+
+- [@Jayli](http://jayli.github.io/blog/)（李晶，花名拔赤，淘宝前端工程师）
+
+- [@lifesinger](https://github.com/lifesinger/lifesinger.github.com/issues)（花名玉伯，支付宝工程师）
+
+- [PlanABC – 怿飞’s Blog](http://www.planabc.net/)（花名圆心，淘宝UED前端工程师）
+
+- [设计观点-用户体验设计 云路科技](http://www.iyunlu.com/view/)（一丝博客，阿里前端工程师）
+
+- [囧克斯](http://jiongks.name/)（@勾三股四，阿里前端工程师，《Sass与Compass实战》译者）
+
+- [WEB前端开发 - 专注前端开发，关注用户体验](http://css88.com)（愚人码头）
+
+- [三水清](http://js8.in/)（百度前端工程师）
+
+- [米随随](http://s5s5.me/)（腾讯成都ISUX）
+
+- [为之漫笔](http://www.cn-cuckoo.com)（李松峰，图灵出版社译者）
 
 ## Foreign（国外）
 
@@ -146,10 +206,36 @@
 
 ### forum & meeting
 
+- [Web Operations and Performance - O'Reilly Velocity](http://velocityconf.com/)
+
+- [JSConf](http://jsconf.com/)（Conferences for the JavaScript community）
+
+- [CSSConf](http://2014.cssconf.com/)
+
+- [ng-conf](http://www.ng-conf.org/)
+
 ### site
+
+- [Your Web, documented · WebPlatform.org](http://www.webplatform.org/)
+
+- [Smashing Magazine](http://www.smashingmagazine.com/)（For Professional Web Designers and Developers）
+
+- [A List Apart](http://alistapart.com/)（For People Who Make Websites）
+
+- [CSS Zen Garden](http://www.csszengarden.com/)（The Beauty of CSS Design）
+
+- [CSS-Tricks](http://css-tricks.com/)
+
+- [Tutorialzine](http://tutorialzine.com/) （Web Development Tutorials & Resources）
 
 ### blog
 
 - [John Resig - JavaScript Programmer](http://ejohn.org/)（jQuery作者）
 
 - [Douglas Crockford](http://crockford.com/)（JSLint作者，《JavaScript语言精粹》作者）
+
+- [Steve Souders](http://www.stevesouders.com)（谷歌工程师，专注于高性能网站开发）
+
+- [NicholasZakas](http://www.nczonline.net/)（《JavaScript高级程序设计》、《高性能JavaScript编程》、《编写可维护的JavaScript》、《Ajax高级程序设计》作者）
+
+- [meyerweb.com](http://meyerweb.com/)（CSS WEB标准专家EricMeyer）
