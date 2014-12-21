@@ -50,7 +50,6 @@
 
 - [OpenParty](http://www.beijing-open-party.org/)（由北京的多个技术社区共同举办的社交活动）
 
-
 ### community
 
 - [SegmentFault](http://segmentfault.com/)（最前沿的技术问答，最纯粹的技术切磋，国内版Stack Overflow）
@@ -99,6 +98,8 @@
 
 - [阿里妈妈MUX](http://mux.alimama.com/)
 
+- [技术沙龙](http://club.alibabatech.org/)
+
 #### 腾讯系
 
 - [AlloyTeam](http://www.alloyteam.com/)（Web前端，愿景: 成为业界卓越的Web团队！）
@@ -115,11 +116,37 @@
 
 #### 搜狐系
 
+- [MUED](http://mued.sohu.com/)（Mobile User Experience Design）
+
+- [焦点UED](http://ued.focus.cn/wordpress/)
+
+- [畅游UED](http://vc.changyou.com/)（Changyou Visual Center）
+
 #### 新浪系
+
+- [新浪UED](http://ued.sina.com/)（以用户为中心的设计理念，以提升产品的用户体验为使命，追求“极简主义”的设计理念，负责所有新浪产品的视觉，交互，用研方面的工作，并致力于做业内最优秀，体验最好的产品为己任）
+
+- [微博UDC](http://udc.weibo.com/)（让设计无“微”不至）
+
+- [乐居UCD](http://ued.leju.com/)
 
 #### 网易系
 
+- [UEDC](http://uedc.163.com/)（用户体验设计中心）
+
+- [GUX](http://gux.163.com/)（游戏用户体验中心）
+
 #### 其他
+
+- [携程UED](http://ued.ctrip.com/blog/)（携程旅行前端开发团队）
+
+- [迅雷CUED](http://cued.xunlei.com/)（迅雷用户体验设计中心）
+
+- [360uxc](http://uxc.360.cn/)（360UXC用户体验设计中心）
+
+- [YHD UED](http://ued.yhd.com/blog)（1号店UED - 只为更好的生活！）
+
+- [19楼UED](http://blog.19ued.com/)（19楼UED Team - Yes,we can!）
 
 ### site
 
@@ -145,7 +172,7 @@
 
 ### blog
 
-- [W3CPlus | css3教程-css3实例-css3动画 | 记述前端那些事——引领Web前沿](http://www.w3cplus.com/)（大漠，携程前段工程师）
+- [W3CPlus | css3教程-css3实例-css3动画 | 记述前端那些事——引领Web前沿](http://www.w3cplus.com/)（大漠，携程前端工程师）
 
 - [阮一峰的个人网站 - Ruan YiFeng's Personal Website](http://www.ruanyifeng.com/)（阮一峰，阿里杭州前端工程师）
 
@@ -214,6 +241,26 @@
 - [CSSConf](http://2014.cssconf.com/)
 
 - [ng-conf](http://www.ng-conf.org/)
+
+### community
+
+- [Stack Overflow](http://stackoverflow.com/)
+
+- [Stack Exchange](http://stackexchange.com/)
+
+- [Reddit](http://www.reddit.com/r/programming)
+
+- [Google+ Communities](https://plus.google.com/communities)
+
+- [SitePoint](http://www.sitepoint.com/forums/)
+
+- [Hacker News](https://news.ycombinator.com/news)
+
+- [Bytes](http://bytes.com/)
+
+- [Lobsters](https://lobste.rs/)
+
+- [Pineapple](http://pineapple.io/)
 
 ### site
 
