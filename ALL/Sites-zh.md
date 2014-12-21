@@ -58,6 +58,8 @@
 
 - [w3ctech](http://www.w3ctech.com/)（中国最大的前端技术社区）
 
+- [慕课网](http://www.imooc.com/)（免费的IT技能学习平台）
+
 - [CNODE](https://cnodejs.org/)（Node.js专业中文社区）
 
 - [AngularJS中文社区](http://angularjs.cn/)（使用超动感HTML & JS开发WEB应用!）
@@ -89,6 +91,8 @@
 - [MUX](http://mux.baidu.com/)（移动用户体验部）
 
 - [Search UX](http://ued.baidu.com/)（搜索用户体验中心）
+
+- [MWEB](http://mweb.baidu.com/)（做最好的无线web研发团队！）
 
 #### 阿里系
 
@@ -144,6 +148,8 @@
 
 - [360uxc](http://uxc.360.cn/)（360UXC用户体验设计中心）
 
+- [75team](http://www.75team.com/)（奇舞团 - 奇虎360旗下前端开发团队）
+
 - [YHD UED](http://ued.yhd.com/blog)（1号店UED - 只为更好的生活！）
 
 - [19楼UED](http://blog.19ued.com/)（19楼UED Team - Yes,we can!）
@@ -152,11 +158,13 @@
 
 - [Mozilla 开发者网络](https://developer.mozilla.org/zh-CN/)
 
-- [IBM developerWorks 中国: IBM's resource for developers and IT professionals](http://www.ibm.com/developerworks/cn/)
+- [IBM developerWorks 中国](http://www.ibm.com/developerworks/cn/)（IBM's resource for developers and IT professionals）
 
 - [MSDN - Microsoft 开发人员网络](http://msdn.microsoft.com/zh-cn/)
 
 - [W3C中国](http://www.chinaw3c.org/)
+
+- [w3school 在线教程](http://www.w3school.com.cn/)
 
 - [博客 - 伯乐在线](http://blog.jobbole.com/)
 
@@ -170,7 +178,11 @@
 
 - [OurJS](http://ourjs.com/)
 
+- [前端开发仓库](http://code.ciaoca.com/)（Code for Web Developer）
+
 ### blog
+
+- [酷壳 – CoolShell.cn](http://coolshell.cn/)（阿里左耳朵耗子，享受编程和技术所带来的快乐）
 
 - [W3CPlus | css3教程-css3实例-css3动画 | 记述前端那些事——引领Web前沿](http://www.w3cplus.com/)（大漠，携程前端工程师）
 
@@ -211,79 +223,3 @@
 - [米随随](http://s5s5.me/)（腾讯成都ISUX）
 
 - [为之漫笔](http://www.cn-cuckoo.com)（李松峰，图灵出版社译者）
-
-## Foreign（国外）
-
-### weekly & daily
-
-- [HTML5 Weekly](http://html5weekly.com/)
-
-- [HTML5 Bookmarks](http://html5bookmarks.com/)
-
-- [CSS Weekly](http://javascriptweekly.com/)
-
-- [JavaScript Weekly](http://javascriptweekly.com/)
-
-- [Web Design Weekly](http://web-design-weekly.com/)
-
-- [Web Tools Weekly](http://webtoolsweekly.com/)
-
-- [Sidebar.io](http://sidebar.io/)（The 5 best design links, everyday）
-
-- [echo.js](http://www.echojs.com/)（Reddit-like Website for JavaScript Resources）
-
-### forum & meeting
-
-- [Web Operations and Performance - O'Reilly Velocity](http://velocityconf.com/)
-
-- [JSConf](http://jsconf.com/)（Conferences for the JavaScript community）
-
-- [CSSConf](http://2014.cssconf.com/)
-
-- [ng-conf](http://www.ng-conf.org/)
-
-### community
-
-- [Stack Overflow](http://stackoverflow.com/)
-
-- [Stack Exchange](http://stackexchange.com/)
-
-- [Reddit](http://www.reddit.com/r/programming)
-
-- [Google+ Communities](https://plus.google.com/communities)
-
-- [SitePoint](http://www.sitepoint.com/forums/)
-
-- [Hacker News](https://news.ycombinator.com/news)
-
-- [Bytes](http://bytes.com/)
-
-- [Lobsters](https://lobste.rs/)
-
-- [Pineapple](http://pineapple.io/)
-
-### site
-
-- [Your Web, documented · WebPlatform.org](http://www.webplatform.org/)
-
-- [Smashing Magazine](http://www.smashingmagazine.com/)（For Professional Web Designers and Developers）
-
-- [A List Apart](http://alistapart.com/)（For People Who Make Websites）
-
-- [CSS Zen Garden](http://www.csszengarden.com/)（The Beauty of CSS Design）
-
-- [CSS-Tricks](http://css-tricks.com/)
-
-- [Tutorialzine](http://tutorialzine.com/) （Web Development Tutorials & Resources）
-
-### blog
-
-- [John Resig - JavaScript Programmer](http://ejohn.org/)（jQuery作者）
-
-- [Douglas Crockford](http://crockford.com/)（JSLint作者，《JavaScript语言精粹》作者）
-
-- [Steve Souders](http://www.stevesouders.com)（谷歌工程师，专注于高性能网站开发）
-
-- [NicholasZakas](http://www.nczonline.net/)（《JavaScript高级程序设计》、《高性能JavaScript编程》、《编写可维护的JavaScript》、《Ajax高级程序设计》作者）
-
-- [meyerweb.com](http://meyerweb.com/)（CSS WEB标准专家EricMeyer）
