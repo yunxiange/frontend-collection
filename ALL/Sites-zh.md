@@ -162,6 +162,8 @@
 
 - [MSDN - Microsoft 开发人员网络](http://msdn.microsoft.com/zh-cn/)
 
+- [Google Developers](https://developers.google.com/?hl=zh-CN)
+
 - [W3C中国](http://www.chinaw3c.org/)
 
 - [w3school 在线教程](http://www.w3school.com.cn/)
@@ -190,7 +192,7 @@
 
 - [张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/)（张鑫旭，腾讯上海ISUX前端工程师）
 
-- [CSS森林](http://www.cssforest.org/)（鬼哥，腾讯深圳页面重构师）
+- [CSS森林](http://www.cssforest.org/)（鬼哥，腾讯深圳页面重构工程师）
 
 - [颜海镜](http://yanhaijing.com/)
 
@@ -223,3 +225,17 @@
 - [米随随](http://s5s5.me/)（腾讯成都ISUX）
 
 - [为之漫笔](http://www.cn-cuckoo.com)（李松峰，图灵出版社译者）
+
+- [Wu Duoyi's Note](http://wuduoyi.com/)（吴多益，百度前端开发工程师）
+
+- [粉丝日志](http://blog.fens.me/)（跨界的IT博客|Hadoop家族, R, RHadoop, Nodejs, AngularJS, KVM, NoSQL, IT金融）
+
+- [小胡子哥](http://barretlee.com/)（阿里前端开发工程师）
+
+- [于江水](http://yujiangshui.com/)（淘宝UED前端开发工程师）
+
+- [小雪](http://wileam.com/)（阿里前端开发工程师）
+
+- [博客歪歪 | 袁源（歪歪）的个人博客](http://www.bokeyy.com/)（百度前端开发工程师）
+
+- [Busy前端工作室](http://aibusy.com/)
