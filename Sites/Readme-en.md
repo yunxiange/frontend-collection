@@ -102,6 +102,8 @@
 
 - [Can I use](http://caniuse.com/)（Support tables for HTML5, CSS3, etc）
 
+- [HTML5 PLEASE](http://html5please.com/)（Look up HTML5, CSS3, etc features）
+
 - [Bento](https://www.bento.io/)（Learn to code the way professional programmers do）
 
 - [SitePoint](http://www.sitepoint.com/)（Learn HTML, CSS, JavaScript, PHP, Ruby & Responsive Design）
@@ -125,6 +127,8 @@
 - [Web development blog, news and tutorials](http://www.developerdrive.com/)
 
 - [Codrops](http://tympanus.net/codrops/)（Useful resources and inspiration for creative minds）
+
+- [CODECALL](http://codecall.net/)（CODECALL » WHILE (TRUE)）
 
 ### blog
 

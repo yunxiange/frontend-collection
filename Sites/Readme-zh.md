@@ -168,6 +168,8 @@
 
 - [W3C中国](http://www.chinaw3c.org/)
 
+- [W3Help](http://www.w3help.org/)（Web标准 - W3C标准 - 兼容性）
+
 - [w3school 在线教程](http://www.w3school.com.cn/)
 
 - [博客 - 伯乐在线](http://blog.jobbole.com/)
