@@ -66,19 +66,21 @@
 
 - [React中文社区](http://react-china.org/)
 
-- [前端界](http://qianduan.us/)
-
 - [开发者头条](http://toutiao.io/)（开发者的首选阅读分享平台）
 
 - [前端De早读课](http://www.zaoduke.net/)（专注分享前端开发、UI设计、产品设计，创业的资讯网站）
 
-- [F2E - 前端技术社区](http://www.f2e.im/)
-
-- [CSSer!](http://www.csser.com/)（网站更新中）
-
 - [jsdo.it](http://jsdo.it/)（share JavaScript, HTML5 and CSS）
 
+- [F2E - 前端技术社区](http://www.f2e.im/)
+
+- [V2EX](http://v2ex.com/)（way to explore，V2EX 是一个关于分享和探索的地方）
+
+- [前端界](http://qianduan.us/)
+
 - [AngularJS Nice Things](http://www.ngnice.com/)
+
+- [CSSer!](http://www.csser.com/)（网站更新中）
 
 ### UED
 
@@ -194,39 +196,51 @@
 
 - [CSS森林](http://www.cssforest.org/)（鬼哥，腾讯深圳页面重构工程师）
 
-- [颜海镜](http://yanhaijing.com/)
-
-- [justjavac(迷渡)](http://justjavac.com/)
-
 - [彬Go的个人网站 - 前端开发工程师|前端开发主管](http://www.bingo929.com/)
 
 - [前端观察 | 专注于网站前端设计与前端开发](http://www.qianduan.net/)（神飞，腾讯深圳微信设计团队）
 
 - [Twinsen Liang-je m' appelle twinsèn.](http://www.twinsenliang.net/)
 
-- [hax的技术部落格 - ITeye技术网站](http://hax.iteye.com/)（[贺师俊](http://johnhax.net/)，百姓网前端工程师）
-
 - [Kejun's Blog](http://hikejun.com/blog/)（张克军，豆瓣前端工程师）
 
-- [@Jayli](http://jayli.github.io/blog/)（李晶，花名拔赤，淘宝前端工程师）
+- [hax的技术部落格 - ITeye技术网站](http://hax.iteye.com/)（[贺师俊](http://johnhax.net/)，百姓网前端工程师）
 
-- [@lifesinger](https://github.com/lifesinger/lifesinger.github.com/issues)（花名玉伯，支付宝工程师）
+- [老赵点滴- 追求编程之美](http://blog.zhaojie.me/)
 
-- [PlanABC – 怿飞’s Blog](http://www.planabc.net/)（花名圆心，淘宝UED前端工程师）
+- [winter-cn - 博客园](http://winter-cn.cnblogs.com/)（[寒冬winter](https://github.com/wintercn/blog/issues)，阿里无线开发工程师）
 
-- [设计观点-用户体验设计 云路科技](http://www.iyunlu.com/view/)（一丝博客，阿里前端工程师）
+- [@Jayli](http://jayli.github.io/blog/)（李晶，花名拔赤，淘宝前端开发工程师）
 
-- [囧克斯](http://jiongks.name/)（@勾三股四，阿里前端工程师，《Sass与Compass实战》译者）
+- [@lifesinger](https://github.com/lifesinger/lifesinger.github.com/issues)（花名玉伯，支付宝前端开发工程师）
+
+- [PlanABC – 怿飞’s Blog](http://www.planabc.net/)（花名圆心，淘宝UED前端开发工程师）
+
+- [设计观点-用户体验设计 云路科技](http://www.iyunlu.com/view/)（[一丝](https://github.com/yisibl/blog/issues)，阿里前端开发工程师）
+
+- [囧克斯](http://jiongks.name/)（@勾三股四，阿里前端开发工程师，《Sass与Compass实战》译者）
+
+- [冰山一角](http://cnberg.com/)（berg，百度前端开发工程师）
+
+- [民工精髓](https://github.com/xufei/blog/issues)（徐飞，苏宁前端开发工程师）
+
+- [CSS魔法](https://github.com/cssmagic/blog/issues)（百姓网前端开发工程师）
 
 - [WEB前端开发 - 专注前端开发，关注用户体验](http://css88.com)（愚人码头）
 
-- [三水清](http://js8.in/)（百度前端工程师）
+- [三水清](http://js8.in/)（百度前端开发工程师）
 
 - [米随随](http://s5s5.me/)（腾讯成都ISUX）
 
 - [为之漫笔](http://www.cn-cuckoo.com)（李松峰，图灵出版社译者）
 
 - [Wu Duoyi's Note](http://wuduoyi.com/)（吴多益，百度前端开发工程师）
+
+- [颜海镜](http://yanhaijing.com/)
+
+- [justjavac(迷渡)](http://justjavac.com/)
+
+- [汤姆大叔](http://www.cnblogs.com/TomXu/)
 
 - [粉丝日志](http://blog.fens.me/)（跨界的IT博客|Hadoop家族, R, RHadoop, Nodejs, AngularJS, KVM, NoSQL, IT金融）
 
@@ -238,4 +252,6 @@
 
 - [博客歪歪 | 袁源（歪歪）的个人博客](http://www.bokeyy.com/)（百度前端开发工程师）
 
-- [Busy前端工作室](http://aibusy.com/)
+- [吴双](https://github.com/classicemi/blog/issues)（苏宁前端开发工程师）
+
+- [Busy前端工作室](http://aibusy.com/)（讲师涛哥，专注于CSS）

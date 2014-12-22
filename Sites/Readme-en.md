@@ -26,19 +26,23 @@
 
 - [Web Operations Weekly](http://webopsweekly.com/)（A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal）
 
+- [UX Weekly](http://uxwkly.com/)（UX Weekly is a small newsletter crafted with a lot of love in beautiful Hanoi, Vietnam）
+
 - [Hacker Newsletter](http://www.hackernewsletter.com/)（The Hacker News Newsletter）
 
+- [Responsive Design Newsletter](http://responsivedesignweekly.com/)（A free, once–weekly round-up of responsive design articles, tools, tips, tutorials and inspirational links）
+
 - [DailyJS](http://dailyjs.com/)（A JavaScript Blog）
-
-- [Sidebar.io](http://sidebar.io/)（The 5 best design links, everyday）
-
-- [echo.js](http://www.echojs.com/)（Reddit-like Website for JavaScript Resources）
 
 - [A Drip of JavaScript](http://designpepper.com/a-drip-of-javascript/)（One quick JavaScript tip, delivered to your inbox biweekly）
 
 - [ng-newsletter](http://www.ng-newsletter.com/)（The free, weekly newsletter of the best AngularJS content on the web）
 
 - [Modern Web Observer](http://modernweb.com/modern-web-observer/)
+
+- [Sidebar.io](http://sidebar.io/)（The 5 best design links, everyday）
+
+- [echo.js](http://www.echojs.com/)（Reddit-like Website for JavaScript Resources）
 
 - [Designer News](https://news.layervault.com/)
 
@@ -57,6 +61,8 @@
 - [Stack Overflow](http://stackoverflow.com/)
 
 - [Quora](https://www.quora.com/)（Your Best Source for Knowledge）
+
+- [coderwall](https://coderwall.com/)（A community for developers to unlock & share new skills）
 
 - [Reddit](http://www.reddit.com/r/programming)
 
