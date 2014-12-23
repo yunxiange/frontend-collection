@@ -12,6 +12,8 @@
 
 - [JavaScript：The Right Way](http://jstherightway.org/)
 
+- [ECMA-262 » ECMA-262-3](http://dmitrysoshnikov.com/tag/ecma-262-3/)
+
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 - [JavaScript Puzzlers!](http://javascript-puzzlers.herokuapp.com/)
@@ -87,6 +89,8 @@
 - [JavaScript's typeof operator](http://blog.alexanderdickson.com/javascript-typeof)（2012.06.22）
 
 - [The Top 10 Javascript MVC Frameworks Reviewed](http://codebrief.com/2012/01/the-top-10-javascript-mvc-frameworks-reviewed/)（2012.01.13）
+
+- [OOP In JavaScript: What You NEED to Know](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)（2013.03.19）
 
 - [聂微东：我的Web前端之路](http://blog.jobbole.com/990/)（2011.06.29）
 
