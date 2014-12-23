@@ -60,6 +60,8 @@
 
 - [《JavaScript设计模式》](http://book.douban.com/subject/3329540/)（2008，人民邮电出版社）
 
+- [《Object-Oriented JavaScript： Create scalable, reusable high-quality JavaScript applications and libraries》](http://book.douban.com/subject/3182419/)（2008.07，Packt Publishing）
+
 - [《JavaScript: The Good Parts》](http://book.douban.com/subject/2994925/)（2008.05，O'Reilly Media）
 
 - [《High Performance JavaScript》](http://book.douban.com/subject/4183808/)（2010.04，O'Reilly Media）
@@ -81,6 +83,14 @@
 - [《Learning JavaScript Design Patterns》](http://book.douban.com/subject/10750116/)（2012.08，O'Reilly Media）
 
 - [《Async JavaScript: Build More Responsive Apps with Less Code》](http://book.douban.com/subject/21357366/)（2012.11，Pragmatic Programmers）
+
+- [《Data Structures and Algorithms with JavaScript》](http://book.douban.com/subject/25790981/)（2014.02，O'Reilly Media）
+
+- [《JavaScript启示录》](http://book.douban.com/subject/25837367/)（2014.03，人民邮电出版社）
+
+- [《JavaScript编程实战》](http://book.douban.com/subject/25840617/)（2014.03，人民邮电出版社）
+
+- [《JavaScript框架设计》](http://book.douban.com/subject/25858070/)（2014.04，人民邮电出版社）
 
 ### articles
 
@@ -105,6 +115,8 @@
 - [给JavaScript初学者的24条最佳实践](http://blog.jobbole.com/53199/)（2013.12.11）
 
 - [Your JavaScript level](http://stepansuvorov.com/blog/2013/12/your-javascript-level/)（2013.12.21）
+
+- [45本免费的JavaScript书籍资源](http://news.cnblogs.com/n/197530/)（2014.01.06）
 
 - [JavaScript String: substring, substr, slice](http://ariya.ofilabs.com/2014/02/javascript-string-substring-substr-slice.html)（2014.02.27）
 
