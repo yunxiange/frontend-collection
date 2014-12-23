@@ -64,6 +64,8 @@
 
 - [AngularJS中文社区](http://angularjs.cn/)（使用超动感HTML & JS开发WEB应用!）
 
+- [AngularJS Nice Things](http://www.ngnice.com/)
+
 - [React中文社区](http://react-china.org/)
 
 - [开发者头条](http://toutiao.io/)（开发者的首选阅读分享平台）
@@ -76,9 +78,9 @@
 
 - [V2EX](http://v2ex.com/)（way to explore，V2EX 是一个关于分享和探索的地方）
 
-- [前端界](http://qianduan.us/)
+- [@Get社区](http://get.jobdeer.com/)
 
-- [AngularJS Nice Things](http://www.ngnice.com/)
+- [前端界](http://qianduan.us/)
 
 - [CSSer!](http://www.csser.com/)（网站更新中）
 
