@@ -26,23 +26,23 @@
 
 ### books
 
-- [CSS网站布局实录](http://book.douban.com/subject/1873926/)（2006.09，科学出版社）
+- [《CSS网站布局实录》](http://book.douban.com/subject/1873926/)（2006.09，科学出版社）
 
-- [CSS设计彻底研究](http://book.douban.com/subject/2984164/)（2008.02，人民邮电出版社）
+- [《CSS设计彻底研究》](http://book.douban.com/subject/2984164/)（2008.02，人民邮电出版社）
 
-- [CSS那些事儿](http://book.douban.com/subject/4117497/)（2009.10，电子工业出版社）
+- [《CSS那些事儿》](http://book.douban.com/subject/4117497/)（2009.10，电子工业出版社）
 
-- [The Zen of CSS Design](http://book.douban.com/subject/1416882/)（2005.02,Peachpit Press）
+- [《The Zen of CSS Design》](http://book.douban.com/subject/1416882/)（2005.02,Peachpit Press）
 
-- [CSS Mastery: Advanced Web Standards Solutions](http://book.douban.com/subject/3887227/)（2009.10，Apress）
+- [《CSS Mastery: Advanced Web Standards Solutions》](http://book.douban.com/subject/3887227/)（2009.10，Apress）
 
-- [超越CSS：Web设计艺术精髓](http://book.douban.com/subject/2345964/)（2007，人民邮电出版社）
+- [《超越CSS：Web设计艺术精髓》](http://book.douban.com/subject/2345964/)（2007，人民邮电出版社）
 
-- [网站重构： 应用Web标准进行设计](http://book.douban.com/subject/6011420/)（2013.03，电子工业出版社）
+- [《网站重构： 应用Web标准进行设计》](http://book.douban.com/subject/6011420/)（2013.03，电子工业出版社）
 
-- [响应式Web设计: HTML5和CSS3实战](http://book.douban.com/subject/20390374/)（2013.01，人民邮电出版社）
+- [《响应式Web设计: HTML5和CSS3实战》](http://book.douban.com/subject/20390374/)（2013.01，人民邮电出版社）
 
-- [高流量网站CSS开发技术](http://book.douban.com/subject/25719314/)（2013.10，人民邮电出版社）
+- [《高流量网站CSS开发技术》](http://book.douban.com/subject/25719314/)（2013.10，人民邮电出版社）
 
 ### articles
 
