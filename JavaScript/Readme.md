@@ -42,6 +42,8 @@
 
 - [D3.js](http://d3js.org/)
 
+- [Highcharts](http://www.highcharts.com/)
+
 - [Raphael.js](http://raphaeljs.com/)
 
 - [Angular.js](https://angularjs.org/)
