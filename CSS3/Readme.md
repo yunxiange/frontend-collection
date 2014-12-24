@@ -68,6 +68,8 @@
 
 - [浅析Bootstrap的CSS类名设计](http://blog.jobbole.com/67276/)（2014.05.08）
 
+- [前端样式开发演变之路](http://www.slideshare.net/firede/ss-34756129)（2014.05.16）
+
 - [What Every Frontend Developer Should Know About Webpage Rendering](http://frontendbabel.info/articles/webpage-rendering-101)（2014.05.26）
 
 - [CSS设计模式：OOCSS 和 SMACSS](http://blog.jobbole.com/76030/)（2014.08.26）
