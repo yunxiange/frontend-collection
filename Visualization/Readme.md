@@ -2,9 +2,15 @@
 
 - [visualizing](http://www.visualizing.org/)（Data Visualizations, Challenges, Community）
 
+- [Datavisualization.ch](http://datavisualization.ch/)（The premier news and knowledge resource for data visualization and infographics）
+
 - [Datavisualization.ch Selected Tools](http://selection.datavisualization.ch/)
 
 - [FlowingData](http://flowingdata.com/)（Visualization and Statistics）
+
+- [GE Data Visualization](http://visualization.geblogs.com/)
+
+- [Data visualization](https://github.com/showcases/data-visualization)
 
 - [DataVlab](http://datavlab.org/)（数据可视化分享平台，由淘宝可视化团队发起）
 
