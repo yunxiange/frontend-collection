@@ -27,7 +27,7 @@
 - [前端开发技术的发展](https://github.com/xufei/blog/blob/master/posts/2013-01-14-前端开发技术的发展.md)（2013.01.14）
 
 - [大型 JavaScript 应用架构中的模式](http://nuysoft.com/2013/08/13/large-scale-javascript/)（2013.08.13）
-→ [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/)
+（[Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/)）
 
 - [前端MV*框架的意义](https://github.com/xufei/blog/blob/master/posts/2013-10-22-前端MV☆框架的意义.md)（2013.10.22）
 
@@ -46,7 +46,7 @@
 - [如何评价淘宝 UED 的 Midway Framework 前后端分离？](http://www.zhihu.com/question/23512853)（2014.07）
 
 - [Web开发在2015年及未来的发展趋势](http://blog.jobbole.com/77833/)（2014.10.07）
-→ [JavaScript Application Architecture On The Road To 2015](https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b)
+（[JavaScript Application Architecture On The Road To 2015](https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b)）
 
 - [构建单页Web应用](https://github.com/xufei/blog/issues/5)（2014.10.21）
 
