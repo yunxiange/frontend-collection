@@ -38,6 +38,8 @@
 
 - [《超越CSS：Web设计艺术精髓》](http://book.douban.com/subject/2345964/)（2007，人民邮电出版社）
 
+- [《Scalable and Modular Architecture for CSS：A flexible guide to developing sites small and large》](http://smacss.com/book/)（2012.07，Pragmatic Bookshelf）
+
 - [《网站重构： 应用Web标准进行设计》](http://book.douban.com/subject/6011420/)（2013.03，电子工业出版社）
 
 - [《响应式Web设计: HTML5和CSS3实战》](http://book.douban.com/subject/20390374/)（2013.01，人民邮电出版社）
