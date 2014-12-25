@@ -1,6 +1,58 @@
-> Updating...(2014-12-20)
-
 ## Foreign（国外）
+
+### site
+
+- [World Wide Web Consortium (W3C)](http://www.w3.org/)
+
+- [Web Hypertext Application Technology Working Group](https://whatwg.org/)
+
+- [Ecma International](http://www.ecma-international.org/)
+
+- [Frontend devlopment bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+
+- [Google Developers](https://developers.google.com/)
+
+- [Microsoft Developer Network](http://msdn.microsoft.com/)
+
+- [Yahoo Developer Network](https://developer.yahoo.com/)
+
+- [IBM Developer Network](http://www.ibm.com/developerworks/)
+
+- [Mozilla Developer Network](https://developer.mozilla.org/en/)
+
+- [Your Web, documented · WebPlatform.org](http://www.webplatform.org/)
+
+- [QuirksMode](http://quirksmode.org/)（For all your browser quirks）
+
+- [Can I use](http://caniuse.com/)（Support tables for HTML5, CSS3, etc）
+
+- [HTML5 PLEASE](http://html5please.com/)（Look up HTML5, CSS3, etc features）
+
+- [Bento](https://www.bento.io/)（Learn to code the way professional programmers do）
+
+- [SitePoint](http://www.sitepoint.com/)（Learn HTML, CSS, JavaScript, PHP, Ruby & Responsive Design）
+
+- [Smashing Magazine](http://www.smashingmagazine.com/)（For Professional Web Designers and Developers）
+
+- [A List Apart](http://alistapart.com/)（For People Who Make Websites）
+
+- [CSS Zen Garden](http://www.csszengarden.com/)（The Beauty of CSS Design）
+
+- [CSS-Tricks](http://css-tricks.com/)
+
+- [Tutorialzine](http://tutorialzine.com/) （Web Development Tutorials & Resources）
+
+- [Tuts+ Free Code Tutorials](http://code.tutsplus.com/)
+
+- [Css Tv](http://css.tv/)（Css News）
+
+- [Webdesigncone](http://webdesigncone.com/)（Best Web Design and Development Inspiration）
+
+- [Web development blog, news and tutorials](http://www.developerdrive.com/)
+
+- [Codrops](http://tympanus.net/codrops/)（Useful resources and inspiration for creative minds）
+
+- [CODECALL](http://codecall.net/)（CODECALL » WHILE (TRUE)）
 
 ### weekly & daily
 
@@ -77,58 +129,6 @@
 - [Lobsters](https://lobste.rs/)
 
 - [Pineapple](http://pineapple.io/)
-
-### site
-
-- [World Wide Web Consortium (W3C)](http://www.w3.org/)
-
-- [Web Hypertext Application Technology Working Group](https://whatwg.org/)
-
-- [Ecma International](http://www.ecma-international.org/)
-
-- [Google Developers](https://developers.google.com/)
-
-- [Microsoft Developer Network](http://msdn.microsoft.com/)
-
-- [Yahoo Developer Network](https://developer.yahoo.com/)
-
-- [IBM Developer Network](http://www.ibm.com/developerworks/)
-
-- [Mozilla Developer Network](https://developer.mozilla.org/en/)
-
-- [Your Web, documented · WebPlatform.org](http://www.webplatform.org/)
-
-- [QuirksMode](http://quirksmode.org/)（For all your browser quirks）
-
-- [Can I use](http://caniuse.com/)（Support tables for HTML5, CSS3, etc）
-
-- [HTML5 PLEASE](http://html5please.com/)（Look up HTML5, CSS3, etc features）
-
-- [Bento](https://www.bento.io/)（Learn to code the way professional programmers do）
-
-- [SitePoint](http://www.sitepoint.com/)（Learn HTML, CSS, JavaScript, PHP, Ruby & Responsive Design）
-
-- [Smashing Magazine](http://www.smashingmagazine.com/)（For Professional Web Designers and Developers）
-
-- [A List Apart](http://alistapart.com/)（For People Who Make Websites）
-
-- [CSS Zen Garden](http://www.csszengarden.com/)（The Beauty of CSS Design）
-
-- [CSS-Tricks](http://css-tricks.com/)
-
-- [Tutorialzine](http://tutorialzine.com/) （Web Development Tutorials & Resources）
-
-- [Tuts+ Free Code Tutorials](http://code.tutsplus.com/)
-
-- [Css Tv](http://css.tv/)（Css News）
-
-- [Webdesigncone](http://webdesigncone.com/)（Best Web Design and Development Inspiration）
-
-- [Web development blog, news and tutorials](http://www.developerdrive.com/)
-
-- [Codrops](http://tympanus.net/codrops/)（Useful resources and inspiration for creative minds）
-
-- [CODECALL](http://codecall.net/)（CODECALL » WHILE (TRUE)）
 
 ### blog
 
