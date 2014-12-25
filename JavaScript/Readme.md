@@ -28,6 +28,8 @@
 
 - [Decoding jQuery](http://www.blog.highub.com/decoding-jquery/)
 
+- [Javascript Closures](http://jibbering.com/faq/notes/closures/)
+
 ### frameworks & libraries
 
 - [jQuery](http://jquery.com/)
@@ -88,6 +90,8 @@
 
 - [《Data Structures and Algorithms with JavaScript》](http://book.douban.com/subject/25790981/)（2014.02，O'Reilly Media）
 
+- [《Speaking JavaScript：An In-Depth Guide for Programmers》](http://shop.oreilly.com/product/0636920029564.do)（2014.02，O'Reilly Media）
+
 - [《JavaScript启示录》](http://book.douban.com/subject/25837367/)（2014.03，人民邮电出版社）
 
 - [《JavaScript编程实战》](http://book.douban.com/subject/25840617/)（2014.03，人民邮电出版社）
@@ -97,6 +101,8 @@
 ### articles
 
 - [\`instanceof\` considered harmful (or how to write a robust \`isArray\`)](http://perfectionkills.com/instanceof-considered-harmful-or-how-to-write-a-robust-isarray/)（2009.01.10）
+
+- [Prototypes and Inheritance in JavaScript](http://msdn.microsoft.com/en-us/magazine/ff852808.aspx)（2010.07.22）
 
 - [JavaScript's typeof operator](http://blog.alexanderdickson.com/javascript-typeof)（2012.06.22）
 
