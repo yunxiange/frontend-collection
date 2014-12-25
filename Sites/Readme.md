@@ -14,7 +14,7 @@
 
 - [W3Help](http://www.w3help.org/)（Web标准 - W3C标准 - 兼容性）
 
-- [前端知识体系](http://ecomfe.duapp.com/)(http://ecomfe.duapp.com/)（按照 功能 、 理论 、 语言 三个维度来划分 标签，对前端相关的 知识点 进行梳理）
+- [前端知识体系](http://ecomfe.duapp.com/)（按照功能、 理论、 语言三个维度来划分标签，对前端相关的知识点进行梳理）
 
 - [w3school 在线教程](http://www.w3school.com.cn/)
 
