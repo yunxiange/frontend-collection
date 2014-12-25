@@ -58,6 +58,8 @@
 
 ### articles
 
+- [Principles of writing consistent, idiomatic HTML](https://github.com/necolas/idiomatic-html)（2012.11.14）
+
 - [10 Best Responsive HTML5 Frameworks](http://designinstruct.com/roundups/html5-frameworks/)（2013.07.02）
 
 - [15 BEST HTML & CSS FRAMEWORKS 2014 FOR WEB DESIGNERS](http://codecall.net/2014/01/13/best-html-css-frameworks-2014-for-web-designers/)（2014.01.13）
