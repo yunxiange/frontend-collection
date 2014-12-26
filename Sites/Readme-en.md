@@ -8,7 +8,11 @@
 
 - [Ecma International](http://www.ecma-international.org/)
 
+- [A curated list of awesome lists](https://github.com/sindresorhus/awesome)
+
 - [Frontend devlopment bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+
+- [Front-end Job Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
 - [Google Developers](https://developers.google.com/)
 
@@ -55,6 +59,8 @@
 - [CODECALL](http://codecall.net/)（CODECALL » WHILE (TRUE)）
 
 ### weekly & daily
+
+- [Front-end Feeds](https://github.com/impressivewebs/frontend-feeds)（An up to date list of RSS feeds for front-end developers）
 
 - [Cooper Press](https://cooperpress.com/)（Developer Newsletters, Training, and Screencasts）
 

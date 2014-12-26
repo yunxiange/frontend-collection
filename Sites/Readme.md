@@ -14,7 +14,11 @@
 
 - [W3Help](http://www.w3help.org/)（Web标准 - W3C标准 - 兼容性）
 
+- [Frontend Knowledge Structure](https://github.com/JacksonTian/fks)（前端技能汇总）
+
 - [前端知识体系](http://ecomfe.duapp.com/)（按照功能、 理论、 语言三个维度来划分标签，对前端相关的知识点进行梳理）
+
+- [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
 
 - [w3school 在线教程](http://www.w3school.com.cn/)
 
@@ -33,6 +37,8 @@
 - [前端开发仓库](http://code.ciaoca.com/)（Code for Web Developer）
 
 ### weekly & daily
+
+- [front-end-collect](https://github.com/foru17/front-end-collect)（分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者）
 
 - [前端周刊](http://www.feweekly.com/)（聚焦最新前端技术、框架、教程、工具、资讯和文章）
 
