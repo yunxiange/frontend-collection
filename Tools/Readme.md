@@ -94,6 +94,8 @@
 
     + [JavaScript Object Tree Browser](http://www.arachnoid.com/javascript/treebrowse.html)
 
+    + [Online JavaScript/CSS Compression Using YUI Compressor](http://refresh-sf.com/yui/)
+
     + [SVG创建编辑器](http://www.zhangxinxu.com/sp/svg/)
 
     + [Maze Generator](http://www.mazegenerator.net/)
@@ -102,14 +104,50 @@
 
     + [智图](http://zhitu.tencent.com/)（图片优化平台）
 
+- Version management tool
+
+    + [Git](http://git-scm.com/)
+
+        * [GitLab](https://about.gitlab.com/)（Open source software to collaborate on code）
+
+        * [A tutorial introduction to git](https://www.kernel.org/pub/software/scm/git/docs/v1.4.4.4/tutorial.html)
+
+        * [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+
+        * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
+
+        * [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html)
+
+        * [TortoiseGit安装和使用的图文教程](http://www.weste.net/2013/1-31/88703.html)
+
+    + [SVN](http://tortoisesvn.net/)（Subversion）
+
+        * [Subversion 与版本控制](http://svnbook.red-bean.com/)
+
+- [Linux](http://www.linux.org/)
+
+    + [Linux中国](http://linux.cn/)（我们的Linux中文社区）
+
+    + [鳥哥的Linux私房菜](http://linux.vbird.org/)
+
 ### frameworks & libraries
 
 ![JavaScript Tools](https://raw.githubusercontent.com/yunxiange/yunxiange.github.io/master/images/JavaScript-Tools-1200.jpg)
 
 - [Modernizr](http://modernizr.com/)（The feature detection library for HTML5/CSS3）
 
+- [Ant](http://ant.apache.org/)
+
+- [YUI Compressor](http://yui.github.io/yuicompressor/)
+
+- [Closure Compiler](https://developers.google.com/closure/compiler/)
+
 ### articles
 
 - [JavaScript Library Usage：Statistics for websites using JavaScript Library technologies](http://trends.builtwith.com/javascript/javascript-library)
 
+- [GIT和SVN之间的五个基本区别](http://www.oschina.net/news/12542/git-and-svn)（2010.10.20）
+
 - [对 JavaScript 进行单元测试的工具](http://www.ibm.com/developerworks/cn/web/wa-tools/index.html)（2012.10.29）
+
+- [Gulp挑战Grunt，背后的哲学](http://www.w3ctech.com/topic/74)（2014.07.13）
