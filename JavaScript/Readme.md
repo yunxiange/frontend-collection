@@ -30,6 +30,10 @@
 
 - [Javascript Closures](http://jibbering.com/faq/notes/closures/)
 
+- [JavaScript Style Guide](https://github.com/airbnb/javascript)
+
+- [AngularJS Learning](https://github.com/jmcunningham/AngularJS-Learning)
+
 ### frameworks & libraries
 
 - [jQuery](http://jquery.com/)
