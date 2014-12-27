@@ -4,6 +4,8 @@
 
 - [JD前端集成解决方案](https://www.npmjs.com/package/jdf)
 
+- [3 Web Designs in 3 Weeks](http://juntao.gitbooks.io/3-web-designs-in-3-weeks/)
+
 ### Articles
 
 - [Software Architecture and Design](http://msdn.microsoft.com/en-us/library/ee658093.aspx)
