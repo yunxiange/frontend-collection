@@ -50,11 +50,15 @@
 
 - [《HTML5 Cookbook》](http://shop.oreilly.com/product/0636920016038.do)（2011.11，O'Reilly Media）
 
+- [《Pro HTML5 and CSS3 Design Patterns》](http://book.douban.com/subject/6908777/)（2011.11，APRESS）
+
 - [《Responsive Web Design with HTML5 and CSS3》](https://www.packtpub.com/web-development/responsive-web-design-html5-and-css3)（2012.04，PACKT）
 
 - [《HTML5 Canvas - Native Interactivity and Animation for the Web》](http://shop.oreilly.com/product/0636920026266.do)（2013.04，O'Reilly Media）
 
 - [《HTML and CSS: Visual QuickStart Guide, 8th Edition》](http://www.peachpit.com/store/html-and-css-visual-quickstart-guide-9780321928832)（2013.08，Peachpit Press）
+
+- [《HTML5 移动游戏开发高级编程》](http://book.douban.com/subject/25892156/)（2014.04，清华大学出版社）
 
 - [《HTML5数据推送应用开发》](http://www.ituring.com.cn/book/1443)（2014.11，图灵程序设计丛书，人民邮电出版社）
 
