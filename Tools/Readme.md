@@ -36,6 +36,8 @@
 
 - Online Editor
 
+    + [CodeMirror](http://codemirror.net/)（A versatile text editor implemented in JavaScript for the browser）
+
     + [Create a new fiddle - JSFiddle](http://jsfiddle.net/)
 
     + [JS Bin](http://jsbin.com/)（Collaborative JavaScript Debugging）
@@ -130,6 +132,14 @@
 
     + [鳥哥的Linux私房菜](http://linux.vbird.org/)
 
+- Blog Tool
+
+    + [Disqus](https://disqus.com/)（The Web’s Community of Communities）
+
+    + [多说](http://duoshuo.com/)（社会化评论系统）
+
+    + [友言](http://www.uyan.cc/)（最专业的社会化评论系统）
+
 ### frameworks & libraries
 
 ![JavaScript Tools](https://raw.githubusercontent.com/yunxiange/yunxiange.github.io/master/images/JavaScript-Tools-1200.jpg)
@@ -149,5 +159,7 @@
 - [GIT和SVN之间的五个基本区别](http://www.oschina.net/news/12542/git-and-svn)（2010.10.20）
 
 - [对 JavaScript 进行单元测试的工具](http://www.ibm.com/developerworks/cn/web/wa-tools/index.html)（2012.10.29）
+
+- [美化代码的15个代码语法高亮工具](http://www.csdn.net/article/2013-09-04/2816818-15-Code-Syntax-Highlighters-To-Prettify-Your-Code)（2013.09.05）
 
 - [Gulp挑战Grunt，背后的哲学](http://www.w3ctech.com/topic/74)（2014.07.13）
