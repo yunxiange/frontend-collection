@@ -58,6 +58,8 @@
 
 - [CODECALL](http://codecall.net/)（CODECALL » WHILE (TRUE)）
 
+- [Web Designer Wall](http://webdesignerwall.com/)（Design Trends and Tutorials）
+
 ### weekly & daily
 
 - [Front-end Feeds](https://github.com/impressivewebs/frontend-feeds)（An up to date list of RSS feeds for front-end developers）

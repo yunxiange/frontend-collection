@@ -36,6 +36,10 @@
 
 - [前端开发仓库](http://code.ciaoca.com/)（Code for Web Developer）
 
+- [素材中国17素材网](http://www.17sucai.com/)
+
+- [Spark创意火花集](http://spark.tencent.com/)
+
 ### weekly & daily
 
 - [front-end-collect](https://github.com/foru17/front-end-collect)（分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者）
@@ -147,6 +151,8 @@
 #### 腾讯系
 
 - [AlloyTeam](http://www.alloyteam.com/)（Web前端，愿景: 成为业界卓越的Web团队！）
+
+- [Tencent AlloyTeam 2014](http://alloyteam.github.io/)（腾讯Web前端团队）
 
 - [ISUX](http://isux.tencent.com/)（社交用户体验设计，Better Experience Through Design）
 
