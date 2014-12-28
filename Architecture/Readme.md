@@ -1,4 +1,11 @@
-### Solutions
+### websites
+
+ 名称 | 网址 | 说明
+------ | ------ | ------
+InfoQ | [http://www.infoq.com/cn/](http://www.infoq.com/cn/) | 促进软件开发领域知识与创新的传播
+ArchSummit | [http://www.archsummit.com/](http://www.archsummit.com/) | 全球架构师峰会
+
+### solutions
 
  名称 | 网址 | 说明
 ------ | ------ | ------
@@ -6,7 +13,7 @@ FIS - 前端工具框架 | [http://fis.baidu.com/](http://fis.baidu.com/) | -
 JD前端集成解决方案 | [https://www.npmjs.com/package/jdf](https://www.npmjs.com/package/jdf) | -
 3 Web Designs in 3 Weeks | [http://juntao.gitbooks.io/3-web-designs-in-3-weeks/](http://juntao.gitbooks.io/3-web-designs-in-3-weeks/) | -
 
-### Articles
+### articles
 
 - [Software Architecture and Design](http://msdn.microsoft.com/en-us/library/ee658093.aspx)
 
