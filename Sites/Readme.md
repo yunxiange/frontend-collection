@@ -181,6 +181,6 @@ justjavac(迷渡) | [http://justjavac.com/](http://justjavac.com/) | -
 小胡子哥 | [http://barretlee.com/](http://barretlee.com/) | 阿里前端开发工程师
 于江水 | [http://yujiangshui.com/](http://yujiangshui.com/) | 淘宝UED前端开发工程师
 小雪 | [http://wileam.com/](http://wileam.com/) | 阿里前端开发工程师
-博客歪歪-袁源(歪歪的个人博客) | [](http://www.bokeyy.com/) | 百度前端开发工程师
+博客歪歪-袁源(歪歪的个人博客) | [http://www.bokeyy.com/](http://www.bokeyy.com/) | 百度前端开发工程师
 吴双 | [https://github.com/classicemi/blog/issues](https://github.com/classicemi/blog/issues) | 苏宁前端开发工程师
 Busy前端工作室 | [http://aibusy.com/](http://aibusy.com/) | 讲师涛哥，专注于CSS

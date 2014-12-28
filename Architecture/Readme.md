@@ -1,10 +1,10 @@
 ### Solutions
 
-- [FIS - 前端工具框架](http://fis.baidu.com/)
-
-- [JD前端集成解决方案](https://www.npmjs.com/package/jdf)
-
-- [3 Web Designs in 3 Weeks](http://juntao.gitbooks.io/3-web-designs-in-3-weeks/)
+ 名称 | 网址 | 说明
+------ | ------ | ------
+FIS - 前端工具框架 | [http://fis.baidu.com/](http://fis.baidu.com/) | -
+JD前端集成解决方案 | [https://www.npmjs.com/package/jdf](https://www.npmjs.com/package/jdf) | -
+3 Web Designs in 3 Weeks | [http://juntao.gitbooks.io/3-web-designs-in-3-weeks/](http://juntao.gitbooks.io/3-web-designs-in-3-weeks/) | -
 
 ### Articles
 

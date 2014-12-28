@@ -1,50 +1,38 @@
 ### websites
 
-- [CSS CURRENT STATUS](http://www.w3.org/standards/techs/css#w3c_all)
-
-- [Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification](http://www.w3.org/TR/CSS2/)
-
-- [W3CPlus](http://www.w3cplus.com/)（CSS3教程-CSS3实例-CSS3动画）
-
-- [CSS森林](http://www.cssforest.org/)
-
-- [CSS大草原](https://github.com/yisibl/blog/issues)（千万只草泥马奔腾在CSS大草原上，一眼望去，尽是那风花雪月）
-
-- [CSS魔法](https://github.com/cssmagic/blog/issues)
-
-- [CSS相关-张鑫旭](http://www.zhangxinxu.com/wordpress/category/css/)
+ 名称 | 网址 | 说明
+------ | ------ | ------
+CSS CURRENT STATUS| [http://www.w3.org/standards/techs/css#w3c_all](http://www.w3.org/standards/techs/css#w3c_all) | -
+Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification| [http://www.w3.org/TR/CSS2/](http://www.w3.org/TR/CSS2/) | -
+W3CPlus| [http://www.w3cplus.com/](http://www.w3cplus.com/) | CSS3教程-CSS3实例-CSS3动画
+CSS森林| [http://www.cssforest.org/](http://www.cssforest.org/) | -
+CSS大草原| [https://github.com/yisibl/blog/issues](https://github.com/yisibl/blog/issues) | -
+CSS魔法| [https://github.com/cssmagic/blog/issues](https://github.com/cssmagic/blog/issues) | -
+CSS相关-张鑫旭| [http://www.zhangxinxu.com/wordpress/category/css/](http://www.zhangxinxu.com/wordpress/category/css/) | -
 
 ### frameworks
 
-- [CSS frontend frameworks](http://usablica.github.io/front-end-frameworks/compare.html?v=2.0)
-
-- [CSS preprocessors](https://github.com/showcases/css-preprocessors)
-
-- [Icon fonts](https://github.com/showcases/icon-fonts)
-
-- [Object-Oriented CSS](http://oocss.org/)
+ 名称 | 网址 | 说明
+------ | ------ | ------
+CSS frontend frameworks | [http://usablica.github.io/front-end-frameworks/compare.html?v=2.0](http://usablica.github.io/front-end-frameworks/compare.html?v=2.0) | -
+CSS preprocessors | [https://github.com/showcases/css-preprocessors](https://github.com/showcases/css-preprocessors) | -
+Icon fonts | [https://github.com/showcases/icon-fonts](https://github.com/showcases/icon-fonts) | -
+Object-Oriented CSS | [http://oocss.org/](http://oocss.org/) | -
 
 ### books
 
-- [《CSS网站布局实录》](http://book.douban.com/subject/1873926/)（2006.09，科学出版社）
-
-- [《CSS设计彻底研究》](http://book.douban.com/subject/2984164/)（2008.02，人民邮电出版社）
-
-- [《CSS那些事儿》](http://book.douban.com/subject/4117497/)（2009.10，电子工业出版社）
-
-- [《The Zen of CSS Design》](http://book.douban.com/subject/1416882/)（2005.02,Peachpit Press）
-
-- [《CSS Mastery: Advanced Web Standards Solutions》](http://book.douban.com/subject/3887227/)（2009.10，Apress）
-
-- [《超越CSS：Web设计艺术精髓》](http://book.douban.com/subject/2345964/)（2007，人民邮电出版社）
-
-- [《Scalable and Modular Architecture for CSS：A flexible guide to developing sites small and large》](http://smacss.com/book/)（2012.07，Pragmatic Bookshelf）
-
-- [《网站重构： 应用Web标准进行设计》](http://book.douban.com/subject/6011420/)（2013.03，电子工业出版社）
-
-- [《响应式Web设计: HTML5和CSS3实战》](http://book.douban.com/subject/20390374/)（2013.01，人民邮电出版社）
-
-- [《高流量网站CSS开发技术》](http://book.douban.com/subject/25719314/)（2013.10，人民邮电出版社）
+ 名称 | 网址 | 说明
+------ | ------ | ------
+《CSS网站布局实录》| [http://book.douban.com/subject/1873926/](http://book.douban.com/subject/1873926/) | 2006.09，科学出版社
+《CSS设计彻底研究》| [http://book.douban.com/subject/2984164/](http://book.douban.com/subject/2984164/) | 2008.02，人民邮电出版社
+《CSS那些事儿》| [http://book.douban.com/subject/4117497/](http://book.douban.com/subject/4117497/) | 2009.10，电子工业出版社
+《The Zen of CSS Design》| [http://book.douban.com/subject/1416882/](http://book.douban.com/subject/1416882/) | 2005.02,Peachpit Press
+《CSS Mastery: Advanced Web Standards Solutions》| [http://book.douban.com/subject/3887227/](http://book.douban.com/subject/3887227/) | 2009.10，Apress
+《超越CSS：Web设计艺术精髓》| [http://book.douban.com/subject/2345964/](http://book.douban.com/subject/2345964/) | 2007，人民邮电出版社
+《Scalable and Modular Architecture for CSS：A flexible guide to developing sites small and large》| [http://smacss.com/book/](http://smacss.com/book/) | 2012.07，Pragmatic Bookshelf
+《网站重构： 应用Web标准进行设计》| [http://book.douban.com/subject/6011420/](http://book.douban.com/subject/6011420/) | 2013.03，电子工业出版社
+《响应式Web设计: HTML5和CSS3实战》| [http://book.douban.com/subject/20390374/](http://book.douban.com/subject/20390374/) | 2013.01，人民邮电出版社
+《高流量网站CSS开发技术》| [http://book.douban.com/subject/25719314/](http://book.douban.com/subject/25719314/) | 2013.10，人民邮电出版社
 
 ### articles
 

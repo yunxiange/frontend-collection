@@ -1,106 +1,67 @@
 ### websites
 
-- [JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-- [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
-
-- [w3school在线教程](http://www.w3school.com.cn/)
-
-- [JavaScript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
-
-- [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)
-
-- [JavaScript：The Right Way](http://jstherightway.org/)
-
-- [ECMA-262 » ECMA-262-3](http://dmitrysoshnikov.com/tag/ecma-262-3/)
-
-- [Eloquent JavaScript](http://eloquentjavascript.net/)
-
-- [JavaScript Puzzlers!](http://javascript-puzzlers.herokuapp.com/)
-    
-- [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
-
-- [JavaScript 原理](http://typeof.net/s/jsmech/)
-
-- [14 Days of jQuery](http://jquery14.com/)
-
-- [jQuery Learning Center](http://learn.jquery.com/)
-
-- [Decoding jQuery](http://www.blog.highub.com/decoding-jquery/)
-
-- [Javascript Closures](http://jibbering.com/faq/notes/closures/)
-
-- [JavaScript Style Guide](https://github.com/airbnb/javascript)
-
-- [AngularJS Learning](https://github.com/jmcunningham/AngularJS-Learning)
+ 名称 | 网址 | 说明
+------ | ------ | ------
+JavaScript MDN | [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | -
+JavaScript Garden | [http://bonsaiden.github.io/JavaScript-Garden/](http://bonsaiden.github.io/JavaScript-Garden/) | -
+w3school在线教程 | [http://www.w3school.com.cn/](http://www.w3school.com.cn/) | -
+JavaScript秘密花园 | [http://bonsaiden.github.io/JavaScript-Garden/zh/](http://bonsaiden.github.io/JavaScript-Garden/zh/) | -
+JavaScript 标准参考教程（alpha） | [http://javascript.ruanyifeng.com/](http://javascript.ruanyifeng.com/) | -
+JavaScript：The Right Way | [http://jstherightway.org/](http://jstherightway.org/) | -
+ECMAScript compatibility table | [http://kangax.github.io/compat-table/es6/](http://kangax.github.io/compat-table/es6/) | -
+ECMA-262 » ECMA-262-3 | [http://dmitrysoshnikov.com/tag/ecma-262-3/](http://dmitrysoshnikov.com/tag/ecma-262-3/) | -
+Eloquent JavaScript | [http://eloquentjavascript.net/](http://eloquentjavascript.net/) | -
+JavaScript Puzzlers! | [http://javascript-puzzlers.herokuapp.com/](http://javascript-puzzlers.herokuapp.com/) | -
+Learning Advanced JavaScript | [http://ejohn.org/apps/learn/](http://ejohn.org/apps/learn/) | -
+JavaScript 原理 | [http://typeof.net/s/jsmech/](http://typeof.net/s/jsmech/) | -
+14 Days of jQuery | [http://jquery14.com/](http://jquery14.com/) | -
+jQuery Learning Center | [http://learn.jquery.com/](http://learn.jquery.com/) | -
+Decoding jQuery | [http://www.blog.highub.com/decoding-jquery/](http://www.blog.highub.com/decoding-jquery/) | -
+Javascript Closures | [http://jibbering.com/faq/notes/closures/](http://jibbering.com/faq/notes/closures/) | -
+JavaScript Style Guide | [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript) | -
+AngularJS Learning | [https://github.com/jmcunningham/AngularJS-Learning](https://github.com/jmcunningham/AngularJS-Learning) | -
 
 ### frameworks & libraries
 
-- [jQuery](http://jquery.com/)
-
-- [underscore.js](http://underscorejs.org/)
-
-- [Require.js](http://www.requirejs.org/)
-
-- [LAB.js](http://labjs.com/)
-
-- [Backbone.js](http://backbonejs.org/)
-
-- [D3.js](http://d3js.org/)
-
-- [Highcharts](http://www.highcharts.com/)
-
-- [Raphael.js](http://raphaeljs.com/)
-
-- [Angular.js](https://angularjs.org/)
+ 名称 | 网址 | 说明
+------ | ------ | ------
+jQuery | [http://jquery.com/](http://jquery.com/) | -
+underscore.js | [http://underscorejs.org/](http://underscorejs.org/) | -
+Require.js | [http://www.requirejs.org/](http://www.requirejs.org/) | -
+LAB.js | [http://labjs.com/](http://labjs.com/) | -
+Backbone.js | [http://backbonejs.org/](http://backbonejs.org/) | -
+D3.js | [http://d3js.org/](http://d3js.org/) | -
+Highcharts | [http://www.highcharts.com/](http://www.highcharts.com/) | -
+Raphael.js | [http://raphaeljs.com/](http://raphaeljs.com/) | -
+Angular.js | [https://angularjs.org/](https://angularjs.org/) | -
 
 ### books
 
-- [《JavaScript DOM编程艺术》](http://book.douban.com/subject/1921890/)（2006.12,人民邮电出版社）
-
-- [《精通JavaScript+jQuery》](http://book.douban.com/subject/3191962/)（2008.09,人民邮电出版社）
-
-- [《ppk谈JavaScript》](http://book.douban.com/subject/3022779/)（2008.04，人民邮电出版社）
-
-- [《精通JavaScript》](http://book.douban.com/subject/3007076/)（2008.04， 图灵程序设计丛书，人民邮电出版社）
-
-- [《JAVASCRIPT语言精髓与编程实践》](http://book.douban.com/subject/3012828/)（2008.03，电子工业出版社）
-
-- [《JavaScript设计模式》](http://book.douban.com/subject/3329540/)（2008，人民邮电出版社）
-
-- [《Object-Oriented JavaScript： Create scalable, reusable high-quality JavaScript applications and libraries》](http://book.douban.com/subject/3182419/)（2008.07，Packt Publishing）
-
-- [《JavaScript: The Good Parts》](http://book.douban.com/subject/2994925/)（2008.05，O'Reilly Media）
-
-- [《High Performance JavaScript》](http://book.douban.com/subject/4183808/)（2010.04，O'Reilly Media）
-
-- [《JavaScript Patterns》](http://book.douban.com/subject/5252901/)（2010.09，O'Reilly Media）
-
-- [《DOM Scripting：Web Design with JavaScript and the Document Object Model》（ 2nd Edition）](http://book.douban.com/subject/5436113/)（2010.12，Friends of Ed）
-
-- [《Secrets of the JavaScript Ninja》](http://book.douban.com/subject/3176860/)（2012.11，Manning Publications）
-
-- [《JavaScript: The Definitive Guide, 6th Edition》](http://book.douban.com/subject/5303032/)（2011.03，O'Reilly Media）
-
-- [《JavaScript Web Applications》](http://book.douban.com/subject/6805476/)（2011.08，O'Reilly Media）
-
-- [《Professional JavaScript for Web Developers》（3rd Edition）](http://book.douban.com/subject/7157249/)（2012.01，Wrox）
-
-- [《Maintainable JavaScript》](http://book.douban.com/subject/10547007/)（2012.06，O'Reilly Media）
-
-- [《Learning JavaScript Design Patterns》](http://book.douban.com/subject/10750116/)（2012.08，O'Reilly Media）
-
-- [《Async JavaScript: Build More Responsive Apps with Less Code》](http://book.douban.com/subject/21357366/)（2012.11，Pragmatic Programmers）
-
-- [《Data Structures and Algorithms with JavaScript》](http://book.douban.com/subject/25790981/)（2014.02，O'Reilly Media）
-
-- [《Speaking JavaScript：An In-Depth Guide for Programmers》](http://shop.oreilly.com/product/0636920029564.do)（2014.02，O'Reilly Media）
-
-- [《JavaScript启示录》](http://book.douban.com/subject/25837367/)（2014.03，人民邮电出版社）
-
-- [《JavaScript编程实战》](http://book.douban.com/subject/25840617/)（2014.03，人民邮电出版社）
-
-- [《JavaScript框架设计》](http://book.douban.com/subject/25858070/)（2014.04，人民邮电出版社）
+ 名称 | 网址 | 说明
+------ | ------ | ------
+《JavaScript DOM编程艺术》 | [http://book.douban.com/subject/1921890/](http://book.douban.com/subject/1921890/) | 2006.12,人民邮电出版社
+《精通JavaScript+jQuery》 | [http://book.douban.com/subject/3191962/](http://book.douban.com/subject/3191962/) | 2008.09,人民邮电出版社
+《ppk谈JavaScript》 | [http://book.douban.com/subject/3022779/](http://book.douban.com/subject/3022779/) | 2008.04，人民邮电出版社
+《精通JavaScript》 | [http://book.douban.com/subject/3007076/](http://book.douban.com/subject/3007076/) | 2008.04， 图灵程序设计丛书，人民邮电出版社
+《JAVASCRIPT语言精髓与编程实践》 | [http://book.douban.com/subject/3012828/](http://book.douban.com/subject/3012828/) | 2008.03，电子工业出版社
+《JavaScript设计模式》 | [http://book.douban.com/subject/3329540/](http://book.douban.com/subject/3329540/) | 2008，人民邮电出版社
+《Object-Oriented JavaScript： Create scalable, reusable high-quality JavaScript applications and libraries》 | [http://book.douban.com/subject/3182419/](http://book.douban.com/subject/3182419/) | 2008.07，Packt Publishing
+《JavaScript: The Good Parts》 | [http://book.douban.com/subject/2994925/](http://book.douban.com/subject/2994925/) | 2008.05，O'Reilly Media
+《High Performance JavaScript》 | [http://book.douban.com/subject/4183808/](http://book.douban.com/subject/4183808/) | 2010.04，O'Reilly Media
+《JavaScript Patterns》 | [http://book.douban.com/subject/5252901/](http://book.douban.com/subject/5252901/) | 2010.09，O'Reilly Media
+《DOM Scripting：Web Design with JavaScript and the Document Object Model》（ 2nd Edition） | [http://book.douban.com/subject/5436113/](http://book.douban.com/subject/5436113/) | 2010.12，Friends of Ed
+《Secrets of the JavaScript Ninja》 | [http://book.douban.com/subject/3176860/](http://book.douban.com/subject/3176860/) | 2012.11，Manning Publications
+《JavaScript: The Definitive Guide, 6th Edition》 | [http://book.douban.com/subject/5303032/](http://book.douban.com/subject/5303032/) | 2011.03，O'Reilly Media
+《JavaScript Web Applications》 | [http://book.douban.com/subject/6805476/](http://book.douban.com/subject/6805476/) | 2011.08，O'Reilly Media
+《Professional JavaScript for Web Developers》（3rd Edition） | [http://book.douban.com/subject/7157249/](http://book.douban.com/subject/7157249/) | 2012.01，Wrox
+《Maintainable JavaScript》 | [http://book.douban.com/subject/10547007/](http://book.douban.com/subject/10547007/) | 2012.06，O'Reilly Media
+《Learning JavaScript Design Patterns》 | [http://book.douban.com/subject/10750116/](http://book.douban.com/subject/10750116/) | 2012.08，O'Reilly Media
+《Async JavaScript: Build More Responsive Apps with Less Code》 | [http://book.douban.com/subject/21357366/](http://book.douban.com/subject/21357366/) | 2012.11，Pragmatic Programmers
+《Data Structures and Algorithms with JavaScript》 | [http://book.douban.com/subject/25790981/](http://book.douban.com/subject/25790981/) | 2014.02，O'Reilly Media
+《Speaking JavaScript：An In-Depth Guide for Programmers》 | [http://shop.oreilly.com/product/0636920029564.do](http://shop.oreilly.com/product/0636920029564.do) | 2014.02，O'Reilly Media
+《JavaScript启示录》 | [http://book.douban.com/subject/25837367/](http://book.douban.com/subject/25837367/) | 2014.03，人民邮电出版社
+《JavaScript编程实战》 | [http://book.douban.com/subject/25840617/](http://book.douban.com/subject/25840617/) | 2014.03，人民邮电出版社
+《JavaScript框架设计》 | [http://book.douban.com/subject/25858070/](http://book.douban.com/subject/25858070/) | 2014.04，人民邮电出版社
 
 ### articles
 
