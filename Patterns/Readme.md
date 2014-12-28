@@ -25,7 +25,7 @@ Blueprints | [http://tympanus.net/codrops/category/blueprints/](http://tympanus.
 
 ### articles
 
-- [页面重构相关思想与模式](http://www.cssforest.org/blog/index.php?c=rebuild)]（CSS Forest）
+- [页面重构相关思想与模式](http://www.cssforest.org/blog/index.php?c=rebuild)（CSS Forest）
 
 - [JavaScript MVC](http://alistapart.com/article/javascript-mvc)（2009.08.18）
 

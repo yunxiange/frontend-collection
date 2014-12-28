@@ -88,7 +88,7 @@ Maze Generator | [http://www.mazegenerator.net/](http://www.mazegenerator.net/) 
 
  名称 | 网址 | 说明
 ------ | ------ | ------
-GitLab | [https://about.gitlab.com/](https://about.gitlab.com/) | Open source software to collaborate on code
+GitLab | [https://about.gitlab.com/](https://about.gitlab.com/) | Open source software
 A tutorial introduction to git | [https://www.kernel.org/pub/software/scm/git/docs/v1.4.4.4/tutorial.html](https://www.kernel.org/pub/software/scm/git/docs/v1.4.4.4/tutorial.html) | -
 Learn Git Branching | [http://pcottle.github.io/learnGitBranching/](http://pcottle.github.io/learnGitBranching/) | -
 GitHub Cheat Sheet | [https://github.com/tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) | -
