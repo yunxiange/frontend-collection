@@ -30,6 +30,7 @@ Qunee for HTML5 | [http://qunee.com/](http://qunee.com/) | 开发清新、高效
 ------ | ------ | ------
 《计算机图形学》（第三版 ） | [http://book.douban.com/subject/1392483/](http://book.douban.com/subject/1392483/) | 2005.06，电子工业出版社
 《Interactive Data Visualization for the Web》 | [http://book.douban.com/subject/20274559/](http://book.douban.com/subject/20274559/) | 2013.03，O'Reilly Media
+《不只是美：信息图表设计原理与经典案例》 | [http://book.douban.com/subject/26289656/](http://book.douban.com/subject/26289656/) | 2014.12，人民邮电出版社
 
 ### articles
 
