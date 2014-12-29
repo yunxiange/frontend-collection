@@ -23,11 +23,8 @@ Bento | [https://www.bento.io/](https://www.bento.io/) | Learn to code the way p
 SitePoint | [http://www.sitepoint.com/](http://www.sitepoint.com/) | Learn HTML, CSS, JavaScript, PHP, Ruby & Responsive Design
 Smashing Magazine | [http://www.smashingmagazine.com/](http://www.smashingmagazine.com/) | For Professional Web Designers and Developers
 A List Apart | [http://alistapart.com/](http://alistapart.com/) | For People Who Make Websites
-CSS Zen Garden | [http://www.csszengarden.com/](http://www.csszengarden.com/) | The Beauty of CSS Design
-CSS-Tricks | [http://css-tricks.com/](http://css-tricks.com/) | -
 Tutorialzine | [http://tutorialzine.com/](http://tutorialzine.com/)  | Web Development Tutorials & Resources
 Tuts+ Free Code Tutorials | [http://code.tutsplus.com/](http://code.tutsplus.com/) | -
-Css Tv | [http://css.tv/](http://css.tv/) | Css News
 Webdesigncone | [http://webdesigncone.com/](http://webdesigncone.com/) | Best Web Design and Development Inspiration
 Web development blog, news and tutorials | [http://www.developerdrive.com/](http://www.developerdrive.com/) | -
 Codrops | [http://tympanus.net/codrops/](http://tympanus.net/codrops/) | Useful resources and inspiration for creative minds
