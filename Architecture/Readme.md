@@ -4,6 +4,7 @@
 ------ | ------ | ------
 InfoQ | [http://www.infoq.com/cn/](http://www.infoq.com/cn/) | 促进软件开发领域知识与创新的传播
 ArchSummit | [http://www.archsummit.com/](http://www.archsummit.com/) | 全球架构师峰会
+后端技术 by Tim Yang | [http://timyang.net/](http://timyang.net/) | 新浪微博技术总监
 
 ### solutions
 
