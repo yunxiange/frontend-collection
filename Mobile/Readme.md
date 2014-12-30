@@ -4,7 +4,7 @@
 ------ | ------ | ------
 Mobile Tech| [https://github.com/jtyjty99999/mobileTech](https://github.com/jtyjty99999/mobileTech) | A useful tools or tips list for mobile web application developing
 Mars| [https://github.com/AlloyTeam/Mars](https://github.com/AlloyTeam/Mars) | 腾讯移动Web前端知识库
-Touch Events| [http://www.w3.org/TR/touch-events/](http://www.w3.org/TR/touch-events/)
+Touch Events| [http://www.w3.org/TR/touch-events/](http://www.w3.org/TR/touch-events/) | 移动端Touch事件
 
 ### frameworks & libraries
 

@@ -3,12 +3,12 @@
  名称 | 网址 | 说明
 ------ | ------ | ------
 CSS CURRENT STATUS| [http://www.w3.org/standards/techs/css#w3c_all](http://www.w3.org/standards/techs/css#w3c_all) | -
-Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification| [http://www.w3.org/TR/CSS2/](http://www.w3.org/TR/CSS2/) | -
+CSS 2.1 Specification| [http://www.w3.org/TR/CSS2/](http://www.w3.org/TR/CSS2/) | -
 CSS MDN | [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) | CSS MDN参考文档
 CSS Zen Garden | [http://www.csszengarden.com/](http://www.csszengarden.com/) | The Beauty of CSS Design
 CSS-Tricks | [http://css-tricks.com/](http://css-tricks.com/) | -
 Css Tv | [http://css.tv/](http://css.tv/) | Css News
-CSS参考手册 | [http://css.doyoe.com/] | web前端开发参考手册系列
+CSS参考手册 | [http://css.doyoe.com/](http://css.doyoe.com/) | web前端开发参考手册系列
 W3CPlus| [http://www.w3cplus.com/](http://www.w3cplus.com/) | CSS3教程
 CSS森林| [http://www.cssforest.org/](http://www.cssforest.org/) | -
 CSS大草原| [https://github.com/yisibl/blog/issues](https://github.com/yisibl/blog/issues) | -
