@@ -28,11 +28,9 @@ Spark创意火花集 | [http://spark.tencent.com/](http://spark.tencent.com/) | 
 
  名称 | 网址 | 说明
 ------ | ------ | ------
-front-end-collect | [https://github.com/foru17/front-end-collect](https://github.com/foru17/front-end-collect) | 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者
 前端周刊 | [http://www.feweekly.com/](http://www.feweekly.com/) | 聚焦最新前端技术、框架、教程、工具、资讯和文章
 奇舞周刊 | [http://www.75team.com/weekly/](http://www.75team.com/weekly/) | 领略前端技术 阅读奇舞周刊 By [75Team](http://www.75team.com/)
 码农周刊 | [http://weekly.manong.io/](http://weekly.manong.io/) | 一份专为程序员打造的IT技术周刊 By [@developerWorks](http://weibo.com/developerworks)
-码农周刊整理 | [https://github.com/nemoTyrant/manong](https://github.com/nemoTyrant/manong) | 码农周刊的类别分的比较大，不易于后期查阅，这里将每期的内容按语言或技术进行了分类整理
 编程狂人 | [http://www.tuicool.com/mags](http://www.tuicool.com/mags) | 专为IT人打造的行业技术周刊 By [tuicool](http://www.tuicool.com)
 设计匠艺 | [http://www.tuicool.com/mags/design](http://www.tuicool.com/mags/design) | 一本电子版的有关设计方面的周刊 By [tuicool](http://www.tuicool.com)
 快乐码农 | [http://www.codeceo.com/article/category/weekly](http://www.codeceo.com/article/category/weekly) | 程序员期刊 By [codeceo](http://www.codeceo.com)
@@ -40,6 +38,9 @@ front-end-collect | [https://github.com/foru17/front-end-collect](https://github
 IT文摘 | [http://ourjs.com/](http://ourjs.com/) | 程序员(码农)技术周刊  By [OurJS](http://ourjs.com/)
 W3CPLUS周刊 | [http://www.w3cplus.com/newsletter/448.html](http://www.w3cplus.com/newsletter/448.html) | By [W3CPLUS](http://www.w3cplus.com/)
 HTML5周刊 | [http://www.html5dw.com/](http://www.html5dw.com/) | By [HTML5梦工场](http://www.html5dw.com/)
+码农周刊整理 | [https://github.com/nemoTyrant/manong](https://github.com/nemoTyrant/manong) | 码农周刊的类别分的比较大，不易于后期查阅，这里将每期的内容按语言或技术进行了分类整理
+front-end-collect | [https://github.com/foru17/front-end-collect](https://github.com/foru17/front-end-collect) | 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者
+zenany-weekly | [https://github.com/zenany/weekly](https://github.com/zenany/weekly) | 汇总平时看到的好文章，技术、产品、管理均有，尽量保证一周汇总一篇
 
 ### forum & meeting
 
