@@ -32,6 +32,7 @@ front-end-collect | [https://github.com/foru17/front-end-collect](https://github
 前端周刊 | [http://www.feweekly.com/](http://www.feweekly.com/) | 聚焦最新前端技术、框架、教程、工具、资讯和文章
 奇舞周刊 | [http://www.75team.com/weekly/](http://www.75team.com/weekly/) | 领略前端技术 阅读奇舞周刊 By [75Team](http://www.75team.com/)
 码农周刊 | [http://weekly.manong.io/](http://weekly.manong.io/) | 一份专为程序员打造的IT技术周刊 By [@developerWorks](http://weibo.com/developerworks)
+码农周刊整理 | [https://github.com/nemoTyrant/manong](https://github.com/nemoTyrant/manong) | 码农周刊的类别分的比较大，不易于后期查阅，这里将每期的内容按语言或技术进行了分类整理
 编程狂人 | [http://www.tuicool.com/mags](http://www.tuicool.com/mags) | 专为IT人打造的行业技术周刊 By [tuicool](http://www.tuicool.com)
 设计匠艺 | [http://www.tuicool.com/mags/design](http://www.tuicool.com/mags/design) | 一本电子版的有关设计方面的周刊 By [tuicool](http://www.tuicool.com)
 快乐码农 | [http://www.codeceo.com/article/category/weekly](http://www.codeceo.com/article/category/weekly) | 程序员期刊 By [codeceo](http://www.codeceo.com)

@@ -34,3 +34,5 @@ Blueprints | [http://tympanus.net/codrops/category/blueprints/](http://tympanus.
 - [JavaScript MVC Style Guide](http://blog.sourcing.io/mvc-style-guide)（2014.03.18）
 
 - [MVC vs MVP vs MVVM](http://jser.it/blog/2014/08/11/mvc-vs-mvp-vs-mvvm/)（2014.08.11）
+
+- [前端开发者喜欢的20个学习文档](http://www.topthink.com/topic/8061.html)（2014.12.29）

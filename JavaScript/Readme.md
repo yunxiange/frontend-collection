@@ -2,10 +2,10 @@
 
  名称 | 网址 | 说明
 ------ | ------ | ------
-JavaScript MDN | [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | -
-JavaScript Garden | [http://bonsaiden.github.io/JavaScript-Garden/](http://bonsaiden.github.io/JavaScript-Garden/) | -
+JavaScript MDN | [https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | JavaScript MDN参考文档
+Document Object Model (DOM) | [https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model) | DOM MDN参考文档
+JavaScript Garden | [http://bonsaiden.github.io/JavaScript-Garden/](http://bonsaiden.github.io/JavaScript-Garden/) | A growing collection of documentation about the most quirky parts of the JavaScript programming language
 w3school在线教程 | [http://www.w3school.com.cn/](http://www.w3school.com.cn/) | -
-JavaScript秘密花园 | [http://bonsaiden.github.io/JavaScript-Garden/zh/](http://bonsaiden.github.io/JavaScript-Garden/zh/) | -
 JavaScript 标准参考教程（alpha） | [http://javascript.ruanyifeng.com/](http://javascript.ruanyifeng.com/) | -
 JavaScript：The Right Way | [http://jstherightway.org/](http://jstherightway.org/) | -
 ECMAScript compatibility table | [http://kangax.github.io/compat-table/es6/](http://kangax.github.io/compat-table/es6/) | -
@@ -13,7 +13,8 @@ ECMA-262 » ECMA-262-3 | [http://dmitrysoshnikov.com/tag/ecma-262-3/](http://dmi
 Eloquent JavaScript | [http://eloquentjavascript.net/](http://eloquentjavascript.net/) | -
 JavaScript Puzzlers! | [http://javascript-puzzlers.herokuapp.com/](http://javascript-puzzlers.herokuapp.com/) | -
 Learning Advanced JavaScript | [http://ejohn.org/apps/learn/](http://ejohn.org/apps/learn/) | -
-JavaScript 原理 | [http://typeof.net/s/jsmech/](http://typeof.net/s/jsmech/) | -
+JavaScript 原理 | [http://typeof.net/s/jsmech/](http://typeof.net/s/jsmech/) | 偏底层JavaScript实现介绍
+jQuery API 中文手册 | [http://hemin.cn/jq/](http://hemin.cn/jq/) | web前端开发参考手册系列
 14 Days of jQuery | [http://jquery14.com/](http://jquery14.com/) | -
 jQuery Learning Center | [http://learn.jquery.com/](http://learn.jquery.com/) | -
 Decoding jQuery | [http://www.blog.highub.com/decoding-jquery/](http://www.blog.highub.com/decoding-jquery/) | -
@@ -25,15 +26,15 @@ AngularJS Learning | [https://github.com/jmcunningham/AngularJS-Learning](https:
 
  名称 | 网址 | 说明
 ------ | ------ | ------
-jQuery | [http://jquery.com/](http://jquery.com/) | -
-underscore.js | [http://underscorejs.org/](http://underscorejs.org/) | -
-Require.js | [http://www.requirejs.org/](http://www.requirejs.org/) | -
-LAB.js | [http://labjs.com/](http://labjs.com/) | -
-Backbone.js | [http://backbonejs.org/](http://backbonejs.org/) | -
-D3.js | [http://d3js.org/](http://d3js.org/) | -
-Highcharts | [http://www.highcharts.com/](http://www.highcharts.com/) | -
-Raphael.js | [http://raphaeljs.com/](http://raphaeljs.com/) | -
-Angular.js | [https://angularjs.org/](https://angularjs.org/) | -
+jQuery | [http://jquery.com/](http://jquery.com/) | A fast, small, and feature-rich JavaScript library
+underscore.js | [http://underscorejs.org/](http://underscorejs.org/) | A JavaScript library that provides a whole mess of useful functional programming helpers
+Require.js | [http://www.requirejs.org/](http://www.requirejs.org/) | A JavaScript file and module loader
+LAB.js | [http://labjs.com/](http://labjs.com/) | Loading And Blocking JavaScript
+Backbone.js | [http://backbonejs.org/](http://backbonejs.org/) | Structure to web applications
+D3.js | [http://d3js.org/](http://d3js.org/) | A JavaScript library for manipulating documents based on data
+Highcharts | [http://www.highcharts.com/](http://www.highcharts.com/) | Create interactive charts easily for your web projects
+Raphael.js | [http://raphaeljs.com/](http://raphaeljs.com/) | A small JavaScript library that should simplify your work with vector graphics on the web
+Angular.js | [https://angularjs.org/](https://angularjs.org/) | Superheroic JavaScript MVW Framework
 
 ### books
 

@@ -4,9 +4,11 @@
 ------ | ------ | ------
 CSS CURRENT STATUS| [http://www.w3.org/standards/techs/css#w3c_all](http://www.w3.org/standards/techs/css#w3c_all) | -
 Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification| [http://www.w3.org/TR/CSS2/](http://www.w3.org/TR/CSS2/) | -
+CSS MDN | [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) | CSS MDN参考文档
 CSS Zen Garden | [http://www.csszengarden.com/](http://www.csszengarden.com/) | The Beauty of CSS Design
 CSS-Tricks | [http://css-tricks.com/](http://css-tricks.com/) | -
 Css Tv | [http://css.tv/](http://css.tv/) | Css News
+CSS参考手册 | [http://css.doyoe.com/] | web前端开发参考手册系列
 W3CPlus| [http://www.w3cplus.com/](http://www.w3cplus.com/) | CSS3教程
 CSS森林| [http://www.cssforest.org/](http://www.cssforest.org/) | -
 CSS大草原| [https://github.com/yisibl/blog/issues](https://github.com/yisibl/blog/issues) | -
@@ -17,10 +19,10 @@ CSS相关-张鑫旭| [http://www.zhangxinxu.com/wordpress/category/css/](http://
 
  名称 | 网址 | 说明
 ------ | ------ | ------
-CSS frontend frameworks | [http://usablica.github.io/front-end-frameworks/compare.html?v=2.0](http://usablica.github.io/front-end-frameworks/compare.html?v=2.0) | -
-CSS preprocessors | [https://github.com/showcases/css-preprocessors](https://github.com/showcases/css-preprocessors) | -
-Icon fonts | [https://github.com/showcases/icon-fonts](https://github.com/showcases/icon-fonts) | -
-Object-Oriented CSS | [http://oocss.org/](http://oocss.org/) | -
+CSS frontend frameworks | [http://usablica.github.io/front-end-frameworks/compare.html?v=2.0](http://usablica.github.io/front-end-frameworks/compare.html?v=2.0) | CSS框架
+CSS preprocessors | [https://github.com/showcases/css-preprocessors](https://github.com/showcases/css-preprocessors) | CSS预处理器
+Icon fonts | [https://github.com/showcases/icon-fonts](https://github.com/showcases/icon-fonts) | 图标字体
+Object-Oriented CSS | [http://oocss.org/](http://oocss.org/) | CSS面向对象设计
 
 ### books
 

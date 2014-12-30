@@ -4,6 +4,7 @@
 ------ | ------ | ------
 HTML5 Stardand| [http://www.w3.org/TR/2014/REC-html5-20141028/](http://www.w3.org/TR/2014/REC-html5-20141028/) | A vocabulary and associated APIs for HTML and XHTML
 HTML5 specification| [http://www.whatwg.org/html5](http://www.whatwg.org/html5) | HTML Living Standard
+HTML5 MDN | [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | HTML5 MDN参考文档
 Dive Into HTML5| [http://diveintohtml5.info/](http://diveintohtml5.info/) | A hand-picked selection of features from the HTML5 specification and other fine standards
 HTML5 Doctor| [http://html5doctor.com/](http://html5doctor.com/) | Helping you implement HTML5 today
 HTML Dog| [http://www.htmldog.com/](http://www.htmldog.com/) | HTML, CSS, and JavaScript Tutorials, References, and Articles

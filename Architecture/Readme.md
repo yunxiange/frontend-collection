@@ -41,6 +41,8 @@ JD前端集成解决方案 | [https://www.npmjs.com/package/jdf](https://www.npm
 
 - [前端MV*框架的意义](https://github.com/xufei/blog/blob/master/posts/2013-10-22-前端MV☆框架的意义.md)（2013.10.22）
 
+- [2014年前端将会发生什么](http://www.w3cplus.com/css/CSS-Level-4-And-More-Whats-Coming-In-2014.html)（2014.01.17）
+
 - [Web研发模式演变](https://github.com/lifesinger/lifesinger.github.com/issues/184)（2014.01.13）
 
 - [前端工程之模块化](http://fex.baidu.com/blog/2014/03/fis-module/)（2014.03.14）
