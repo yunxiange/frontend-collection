@@ -28,7 +28,7 @@ AppFog | [https://www.appfog.com/](https://www.appfog.com/) | The Public Cloud P
 七牛云存储 | [http://www.qiniu.com/](http://www.qiniu.com/) | 移动时代的云存储服务商
 又拍云 | [http://www.upyun.com](http://www.upyun.com) | 非结构化数据云存储、云处理、云分发平台
 
-- Online Editor
+- Online Editor / IDE
 
  名称 | 网址 | 说明
 ------ | ------ | ------
@@ -38,6 +38,15 @@ JS Bin | [http://jsbin.com/](http://jsbin.com/) | Collaborative JavaScript Debug
 CodePen - Pen | [http://codepen.io/pen/](http://codepen.io/pen/) | -
 RunJS | [http://runjs.cn/](http://runjs.cn/) | 在线编辑、展示、分享、交流你的 JavaScript 代码
 在线Markdown编辑阅读器 | [https://www.zybuluo.com/mdeditor](https://www.zybuluo.com/mdeditor) | Cmd Markdown 编辑阅读器 - 作业部落出品
+Dreamweave | [http://www.adobe.com/products/dreamweaver.html](http://www.adobe.com/products/dreamweaver.html) | Website builder
+Brackets | [http://brackets.io/](http://brackets.io/) | A modern, open source text editor that understands web design
+Sublime | [http://www.sublimetext.com/](http://www.sublimetext.com/) | A sophisticated text editor for code, markup and prose
+WebStorm | [http://www.jetbrains.com/webstorm/](http://www.jetbrains.com/webstorm/) | The smartest JavaScript IDE
+Atom | [https://atom.io/](https://atom.io/) | A hackable text editor for the 21st Century
+HBuilder | [http://www.dcloud.io/](http://www.dcloud.io/) | 飞一样的编码
+TextMate | [http://macromates.com/](http://macromates.com/) | The missing editor for Mac OS X
+Notepad++ | [http://notepad-plus-plus.org/](http://notepad-plus-plus.org/) | a free source code editor and Notepad replacement that supports several languages
+EditPlus | [https://www.editplus.com/](https://www.editplus.com/) | Text editor for Windows
 
 - HTML Tool
 
@@ -50,13 +59,14 @@ Groovy Meta Generator | [http://www.groovymeta.com/](http://www.groovymeta.com/)
 
  名称 | 网址 | 说明
 ------ | ------ | ------
+在线LESS CSS编译器 | [http://tool.oschina.net/less](http://tool.oschina.net/less) | -
 CSS Validation Service | [http://jigsaw.w3.org/css-validator/](http://jigsaw.w3.org/css-validator/) | -
 CSS Lint | [http://csslint.net/](http://csslint.net/) | -
-在线LESS CSS编译器 | [http://tool.oschina.net/less](http://tool.oschina.net/less) | -
-CSS3 Generator | [http://css3generator.com/](http://css3generator.com/) | -
 CSS EASING ANIMATION TOOL | [http://matthewlein.com/ceaser/](http://matthewlein.com/ceaser/) | -
+CSS3 Generator | [http://css3generator.com/](http://css3generator.com/) | -
 CSS Border Radius | [http://border-radius.com/](http://border-radius.com/) | -
 CSS Gradient Generator | [http://www.css3factory.com/linear-gradients/](http://www.css3factory.com/linear-gradients/) | -
+CSS Shape Tools | [http://betravis.github.io/shape-tools/](http://betravis.github.io/shape-tools/) | -
 WEBFONT GENERATOR | [http://www.fontsquirrel.com/tools/webfont-generator](http://www.fontsquirrel.com/tools/webfont-generator) | -
 resizemybrowser | [http://resizemybrowser.com/](http://resizemybrowser.com/) | -
 Responsive Design Testing | [http://mattkersley.com/responsive/](http://mattkersley.com/responsive/) | -
@@ -83,6 +93,16 @@ Maze Generator | [http://www.mazegenerator.net/](http://www.mazegenerator.net/) 
  名称 | 网址 | 说明
 ------ | ------ | ------
 智图 | [http://zhitu.tencent.com/](http://zhitu.tencent.com/) | 图片优化平台
+
+- Debug Tool
+
+ 名称 | 网址 | 说明
+------ | ------ | ------
+Firebug | [http://getfirebug.com/](http://getfirebug.com/) | The most popular and powerful web development tool
+Chrome Dev Tools | [https://developers.google.com/chrome-developer-tools/](https://developers.google.com/chrome-developer-tools/) | Google Broswer Own
+IETester | [http://www.my-debugbar.com/wiki/IETester/HomePage](http://www.my-debugbar.com/wiki/IETester/HomePage) | Browser Compatibility Check for Internet Explorer Versions from 5.5 to 10
+Fiddler | [http://www.telerik.com/download/fiddler](http://www.telerik.com/download/fiddler) | The free web debugging proxy
+YSlow | [http://yslow.org/](http://yslow.org/) | Slow analyzes web pages and why they're slow based on Yahoo!'s rules for high performance web sites
 
 - Version management tool - [Git](http://git-scm.com/) / [SVN](http://tortoisesvn.net/)（Subversion）
 

@@ -111,3 +111,5 @@ Angular.js | [https://angularjs.org/](https://angularjs.org/) | Superheroic Java
 - [常用排序算法之JavaScript实现](http://blog.jobbole.com/76339/)（2014.09.01）
 
 - [jQuery Coding Standards & Best Practices](http://lab.abhinayrathore.com/jquery-standards/)（2014.10.14）
+
+- [JavaScript继承方式详解](http://segmentfault.com/blog/trigkit4/1190000002440502)（2014.12.23）
