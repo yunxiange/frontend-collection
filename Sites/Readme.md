@@ -7,22 +7,23 @@
 Mozilla | [https://developer.mozilla.org/zh-CN/](https://developer.mozilla.org/zh-CN/) | 开发者网络
 IBM developerWorks | [http://www.ibm.com/developerworks/cn/](http://www.ibm.com/developerworks/cn/) | IBM's resource for developers and IT professionals
 MSDN | [http://msdn.microsoft.com/zh-cn/](http://msdn.microsoft.com/zh-cn/) | Microsoft开发人员网络
-Google Developers | [https://developers.google.com/?hl=zh-CN](https://developers.google.com/?hl=zh-CN) | -
-W3C中国 | [http://www.chinaw3c.org/](http://www.chinaw3c.org/) | -
+Google Developers | [https://developers.google.com/?hl=zh-CN](https://developers.google.com/?hl=zh-CN) | 谷歌开发者网络
+W3C中国 | [http://www.chinaw3c.org/](http://www.chinaw3c.org/) | W3C中国总部
 W3Help | [http://www.w3help.org/](http://www.w3help.org/) | Web标准 - W3C标准 - 兼容性
 Frontend Knowledge Structure | [https://github.com/JacksonTian/fks](https://github.com/JacksonTian/fks) | 前端技能汇总
 前端知识体系 | [http://ecomfe.duapp.com/](http://ecomfe.duapp.com/)| 按照功能、 理论、 语言三个维度来划分标签，对前端相关的知识点进行梳理
-免费的计算机编程类中文书籍 | [https://github.com/justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | -
-w3school 在线教程 | [http://www.w3school.com.cn/](http://www.w3school.com.cn/) | -
-博客 - 伯乐在线 | [http://blog.jobbole.com/](http://blog.jobbole.com/) | -
-HTML5梦工场 - 传递力量 拥抱梦想 | [http://www.html5dw.com/](http://www.html5dw.com/) | -
-HTML5中国：中国最大的HTML5中文门户 | [http://www.html5cn.org/](http://www.html5cn.org/) | -
+免费的计算机编程类中文书籍 | [https://github.com/justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | 开发人员资源
+w3school 在线教程 | [http://www.w3school.com.cn/](http://www.w3school.com.cn/) | 全球最大的中文 Web 技术教程
+博客 - 伯乐在线 | [http://blog.jobbole.com/](http://blog.jobbole.com/) | 专注于分享职业相关的博客文章、业界资讯和职业相关的优秀工具和资源
+HTML5梦工场 | [http://www.html5dw.com/](http://www.html5dw.com/) | 传递力量 拥抱梦想
+HTML5中国 | [http://www.html5cn.org/](http://www.html5cn.org/) | 中国最大的HTML5中文门户，为广大HTML5爱好者提供各种HTML5资料
+前端外刊评论 | [http://zhuanlan.zhihu.com/FrontendMagazine](http://zhuanlan.zhihu.com/FrontendMagazine) | 前端开发前沿技术理念介绍
 前端网W3Cfuns | [http://www.w3cfuns.com/](http://www.w3cfuns.com/) | 前端开发工程师互动平台
-发现 - Div.IO | [http://div.io](http://div.io) | -
-OurJS | [http://ourjs.com/](http://ourjs.com/) | -
+发现 - Div.IO | [http://div.io](http://div.io) | 高质量前端资源汇聚
+OurJS | [http://ourjs.com/](http://ourjs.com/) | 爱我技术
 前端开发仓库 | [http://code.ciaoca.com/](http://code.ciaoca.com/) | Code for Web Developer
-素材中国17素材网 | [http://www.17sucai.com/](http://www.17sucai.com/) | -
-Spark创意火花集 | [http://spark.tencent.com/](http://spark.tencent.com/) | -
+素材中国17素材网 | [http://www.17sucai.com/](http://www.17sucai.com/) | 素材中国一流的中国素材网站，提供优质的图片素材和代码素材的素材天下素材网
+Spark创意火花集 | [http://spark.tencent.com/](http://spark.tencent.com/) | 创意集
 
 ### weekly & daily
 
@@ -168,6 +169,7 @@ winter-cn - 博客园 | [http://winter-cn.cnblogs.com/](http://winter-cn.cnblogs
 PlanABC – 怿飞’s Blog | [http://www.planabc.net/](http://www.planabc.net/) | 花名圆心，淘宝UED前端开发工程师
 设计观点-用户体验设计 云路科技 | [http://www.iyunlu.com/view/](http://www.iyunlu.com/view/) | [一丝](https://github.com/yisibl/blog/issues)，阿里前端开发工程师
 囧克斯 | [http://jiongks.name/](http://jiongks.name/) | @勾三股四，阿里前端开发工程师，《Sass与Compass实战》译者
+宅居 | [http://otakustay.com/](http://otakustay.com/) | 做技术最好的宅，或者最宅的技术
 冰山一角 | [http://cnberg.com/](http://cnberg.com/) | berg，百度前端开发工程师
 民工精髓 | [https://github.com/xufei/blog/issues](https://github.com/xufei/blog/issues) | 徐飞，苏宁前端开发工程师
 CSS魔法 | [https://github.com/cssmagic/blog/issues](https://github.com/cssmagic/blog/issues) | 百姓网前端开发工程师
@@ -179,6 +181,7 @@ Wu Duoyi's Note | [http://wuduoyi.com/](http://wuduoyi.com/) | 吴多益，百�
 颜海镜 | [http://yanhaijing.com/](http://yanhaijing.com/) | -
 justjavac(迷渡) | [http://justjavac.com/](http://justjavac.com/) | -
 汤姆大叔 | [http://www.cnblogs.com/TomXu/](http://www.cnblogs.com/TomXu/) | -
+叶小钗 | [http://www.cnblogs.com/yexiaochai/](http://www.cnblogs.com/yexiaochai/) | -
 粉丝日志 | [http://blog.fens.me/](http://blog.fens.me/) | 跨界的IT博客|Hadoop家族, R, RHadoop, Nodejs, AngularJS, KVM, NoSQL, IT金融
 小胡子哥 | [http://barretlee.com/](http://barretlee.com/) | 阿里前端开发工程师
 于江水 | [http://yujiangshui.com/](http://yujiangshui.com/) | 淘宝UED前端开发工程师
