@@ -49,6 +49,7 @@ zenany-weekly | [https://github.com/zenany/weekly](https://github.com/zenany/wee
 ------ | ------ | ------
 SegmentFault活动推荐 | [http://segmentfault.com/events](http://segmentfault.com/events) | -
 推酷活动推荐 | [http://huodong.tuicool.com/](http://huodong.tuicool.com/) | -
+QConf | [http://www.qconbeijing.com/](http://www.qconbeijing.com/) | QCon全球软件开发大会北京站
 JSConf | [http://jsconf.cn/](http://jsconf.cn/) | Conferences for the JavaScript community in China
 CSSConf | [https://github.com/css-conf](https://github.com/css-conf) | CSS Conf of China
 NodeParty | [https://github.com/cnodejs/nodeparty](https://github.com/cnodejs/nodeparty) | Node Party in China. Come from [there](http://cnodejs.org/)
