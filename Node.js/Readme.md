@@ -3,6 +3,7 @@
  名称 | 网址 | 说明
 ------ | ------ | ------
 Node.js | [http://nodejs.org/](http://nodejs.org/) | Node.js官网
+The Node Way | [http://thenodeway.io/](http://thenodeway.io/) | Your Guide to Building Beautiful Node.js Applications
 Awesome Node.js | [https://github.com/sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | -
 CNode | [https://cnodejs.org/](https://cnodejs.org/) | Node.js专业中文社区
 中文资料导航 | [https://github.com/youyudehexie/node123](https://github.com/youyudehexie/node123) | -
