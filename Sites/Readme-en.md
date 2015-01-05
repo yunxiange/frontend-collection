@@ -21,6 +21,7 @@ Can I use | [http://caniuse.com/](http://caniuse.com/) | Support tables for HTML
 HTML5 PLEASE | [http://html5please.com/](http://html5please.com/) | Look up HTML5, CSS3, etc features
 Bento | [https://www.bento.io/](https://www.bento.io/) | Learn to code the way professional programmers do
 SitePoint | [http://www.sitepoint.com/](http://www.sitepoint.com/) | Learn HTML, CSS, JavaScript, PHP, Ruby & Responsive Design
+Modern Web | [http://modernweb.com/](http://modernweb.com/) | -
 Smashing Magazine | [http://www.smashingmagazine.com/](http://www.smashingmagazine.com/) | For Professional Web Designers and Developers
 A List Apart | [http://alistapart.com/](http://alistapart.com/) | For People Who Make Websites
 Tutorialzine | [http://tutorialzine.com/](http://tutorialzine.com/)  | Web Development Tutorials & Resources

@@ -155,3 +155,5 @@ Closure Compiler | [https://developers.google.com/closure/compiler/](https://dev
 - [美化代码的15个代码语法高亮工具](http://www.csdn.net/article/2013-09-04/2816818-15-Code-Syntax-Highlighters-To-Prettify-Your-Code)（2013.09.05）
 
 - [Gulp挑战Grunt，背后的哲学](http://www.w3ctech.com/topic/74)（2014.07.13）
+
+- [10款最佳JavaScript 和 HTML5演示(幻灯片)框架](http://web.jobbole.com/81792/)（2014.12.26）
