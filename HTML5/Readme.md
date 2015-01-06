@@ -2,27 +2,28 @@
 
  名称 | 网址 | 说明
 ------ | ------ | ------
-HTML5 Stardand| [http://www.w3.org/TR/2014/REC-html5-20141028/](http://www.w3.org/TR/2014/REC-html5-20141028/) | A vocabulary and associated APIs for HTML and XHTML
-HTML5 specification| [http://www.whatwg.org/html5](http://www.whatwg.org/html5) | HTML Living Standard
+HTML5 Stardand | [http://www.w3.org/TR/2014/REC-html5-20141028/](http://www.w3.org/TR/2014/REC-html5-20141028/) | A vocabulary and associated APIs for HTML and XHTML
+HTML5 specification | [http://www.whatwg.org/html5](http://www.whatwg.org/html5) | HTML Living Standard
+HTML revisited | [https://html5.org/](https://html5.org/) | Several resources worth exploring html5
 HTML5 MDN | [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | HTML5 MDN参考文档
-Dive Into HTML5| [http://diveintohtml5.info/](http://diveintohtml5.info/) | A hand-picked selection of features from the HTML5 specification and other fine standards
-HTML5 Doctor| [http://html5doctor.com/](http://html5doctor.com/) | Helping you implement HTML5 today
-HTML Dog| [http://www.htmldog.com/](http://www.htmldog.com/) | HTML, CSS, and JavaScript Tutorials, References, and Articles
-Can I use| [http://caniuse.com/](http://caniuse.com/) | Support tables for HTML5, CSS3, etc
-Mobile HTML5 compatibility| [http://mobilehtml5.org/](http://mobilehtml5.org/) | Compatibility on iPhone, Android, Windows Phone, BlackBerry, Firefox OS and other mobile devices
-HTML5 PLEASE| [http://html5please.com/](http://html5please.com/) | Look up HTML5, CSS3, etc features
-findmebyIP| [http://fmbip.com/litmus/](http://fmbip.com/litmus/) | HTML5 & CSS3 Web Design
-ChINA HTML5 ALLIANCE| [http://html5plus.org/](http://html5plus.org/) | HTML5中国产业联盟
-HTML5梦工场| [http://www.html5dw.com/](http://www.html5dw.com/) | 传递力量 拥抱梦想
-HTML5 Tricks| [http://www.html5tricks.com/](http://www.html5tricks.com/) | HTML5资源教程 | 分享HTML5开发资源和开发教程
+Dive Into HTML5 | [http://diveintohtml5.info/](http://diveintohtml5.info/) | A hand-picked selection of features from the HTML5 specification and other fine standards
+HTML5 Doctor | [http://html5doctor.com/](http://html5doctor.com/) | Helping you implement HTML5 today
+HTML Dog | [http://www.htmldog.com/](http://www.htmldog.com/) | HTML, CSS, and JavaScript Tutorials, References, and Articles
+Can I use | [http://caniuse.com/](http://caniuse.com/) | Support tables for HTML5, CSS3, etc
+Mobile HTML5 compatibility | [http://mobilehtml5.org/](http://mobilehtml5.org/) | Compatibility on iPhone, Android, Windows Phone, BlackBerry, Firefox OS and other mobile devices
+HTML5 PLEASE | [http://html5please.com/](http://html5please.com/) | Look up HTML5, CSS3, etc features
+findmebyIP | [http://fmbip.com/litmus/](http://fmbip.com/litmus/) | HTML5 & CSS3 Web Design
+ChINA HTML5 ALLIANCE | [http://html5plus.org/](http://html5plus.org/) | HTML5中国产业联盟
+HTML5梦工场 | [http://www.html5dw.com/](http://www.html5dw.com/) | 传递力量 拥抱梦想
+HTML5 Tricks | [http://www.html5tricks.com/](http://www.html5tricks.com/) | HTML5资源教程 | 分享HTML5开发资源和开发教程
 
 ### frameworks
 
  名称 | 网址 | 说明
 ------ | ------ | ------
-HTML5 Boilerplate| [http://html5boilerplate.com/](http://html5boilerplate.com/) | The web’s most popular front-end template
-Kendo UI| [http://www.telerik.com/kendo-ui](http://www.telerik.com/kendo-ui) | Kendo UI jQuery and HTML5 widgets
-HTML KickStart| [http://www.99lime.com/elements/](http://www.99lime.com/elements/) | Ultra–Lean HTML5, CSS, & JS Building Blocks for Rapid Website Production
+HTML5 Boilerplate | [http://html5boilerplate.com/](http://html5boilerplate.com/) | The web’s most popular front-end template
+Kendo UI | [http://www.telerik.com/kendo-ui](http://www.telerik.com/kendo-ui) | Kendo UI jQuery and HTML5 widgets
+HTML KickStart | [http://www.99lime.com/elements/](http://www.99lime.com/elements/) | Ultra–Lean HTML5, CSS, & JS Building Blocks for Rapid Website Production
 Bootstrap| [http://getbootstrap.com/](http://getbootstrap.com/) | The most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web
 
 ### books

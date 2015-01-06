@@ -2,23 +2,24 @@
 
 ### site
 
- 名称 | 网址 | 说明
+ Name | Site | Introduction
 ------ | ------ | ------
-World Wide Web Consortium (W3C) | [http://www.w3.org/](http://www.w3.org/) | -
-Web Hypertext Application Technology Working Group | [https://whatwg.org/](https://whatwg.org/) | -
-Ecma International | [http://www.ecma-international.org/](http://www.ecma-international.org/) | -
-A curated list of awesome lists | [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome) | -
-Frontend devlopment bookmarks | [https://github.com/dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) | -
-Front-end Job Interview Questions | [https://github.com/h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) | -
+The Web platform: Browser technologies | [https://platform.html5.org/](https://platform.html5.org/) | A list of browser technologies
+Awesome | [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome) | A curated list of awesome lists
+Frontend devlopment bookmarks | [https://github.com/dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) | A huge list of frontend development resources
+Front-end Job Interview Questions | [https://github.com/h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) | A list of helpful front-end related questions
+W3C | [http://www.w3.org/](http://www.w3.org/) | World Wide Web Consortium
+the WHATWG community | [https://whatwg.org/](https://whatwg.org/) | Web Hypertext Application Technology Working Group
+Ecma International | [http://www.ecma-international.org/](http://www.ecma-international.org/) | An industry association dedicated to the standardization of information and communication systems
+MDN | [https://developer.mozilla.org/en/](https://developer.mozilla.org/en/) | Mozilla Developer Network
+WebPlatform | [http://www.webplatform.org/](http://www.webplatform.org/) | Your Web, documented
+QuirksMode | [http://quirksmode.org/](http://quirksmode.org/) | For all your browser quirks
+Can I use | [http://caniuse.com/](http://caniuse.com/) | Support tables for HTML5, CSS3, etc
+HTML5 PLEASE | [http://html5please.com/](http://html5please.com/) | Look up HTML5, CSS3, etc features
 Google Developers | [https://developers.google.com/](https://developers.google.com/) | -
 Microsoft Developer Network | [http://msdn.microsoft.com/](http://msdn.microsoft.com/) | -
 Yahoo Developer Network | [https://developer.yahoo.com/](https://developer.yahoo.com/) | -
 IBM Developer Network | [http://www.ibm.com/developerworks/](http://www.ibm.com/developerworks/) | -
-Mozilla Developer Network | [https://developer.mozilla.org/en/](https://developer.mozilla.org/en/) | -
-Your Web, documented · WebPlatform.org | [http://www.webplatform.org/](http://www.webplatform.org/) | -
-QuirksMode | [http://quirksmode.org/](http://quirksmode.org/) | For all your browser quirks
-Can I use | [http://caniuse.com/](http://caniuse.com/) | Support tables for HTML5, CSS3, etc
-HTML5 PLEASE | [http://html5please.com/](http://html5please.com/) | Look up HTML5, CSS3, etc features
 Bento | [https://www.bento.io/](https://www.bento.io/) | Learn to code the way professional programmers do
 SitePoint | [http://www.sitepoint.com/](http://www.sitepoint.com/) | Learn HTML, CSS, JavaScript, PHP, Ruby & Responsive Design
 Modern Web | [http://modernweb.com/](http://modernweb.com/) | -
@@ -34,7 +35,7 @@ Web Designer Wall | [http://webdesignerwall.com/](http://webdesignerwall.com/) |
 
 ### weekly & daily
 
- 名称 | 网址 | 说明
+ Name | Site | Introduction
 ------ | ------ | ------
 Front-end Feeds | [https://github.com/impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds) | An up to date list of RSS feeds for front-end developers
 Cooper Press | [https://cooperpress.com/](https://cooperpress.com/) | Developer Newsletters, Training, and Screencasts
@@ -61,7 +62,7 @@ Designer News | [https://news.layervault.com/](https://news.layervault.com/) | -
 
 ### forum & meeting
 
- 名称 | 网址 | 说明
+ Name | Site | Introduction
 ------ | ------ | ------
 Web Operations and Performance - O'Reilly Velocity | [http://velocityconf.com/](http://velocityconf.com/) | -
 JSConf | [http://jsconf.com/](http://jsconf.com/) | Conferences for the JavaScript community
@@ -70,7 +71,7 @@ ng-conf | [http://www.ng-conf.org/](http://www.ng-conf.org/) | -
 
 ### community
 
- 名称 | 网址 | 说明
+ Name | Site | Introduction
 ------ | ------ | ------
 Stack Overflow | [http://stackoverflow.com/](http://stackoverflow.com/) | -
 Quora | [https://www.quora.com/](https://www.quora.com/) | Your Best Source for Knowledge
@@ -85,7 +86,7 @@ Pineapple | [http://pineapple.io/](http://pineapple.io/) | -
 
 ### blog
 
- 名称 | 网址 | 说明
+ Name | Site | Introduction
 ------ | ------ | ------
 John Resig - JavaScript Programmer | [http://ejohn.org/](http://ejohn.org/) | jQuery作者
 Douglas Crockford | [http://crockford.com/](http://crockford.com/) | JSLint作者，《JavaScript语言精粹》作者
