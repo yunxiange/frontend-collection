@@ -52,6 +52,7 @@ EditPlus | [https://www.editplus.com/](https://www.editplus.com/) | Text editor 
 
  名称 | 网址 | 说明
 ------ | ------ | ------
+Markup Validation Service | [http://validator.w3.org/](http://validator.w3.org/) | The W3C Markup Validation Service
 HTML Tidy | [http://infohound.net/tidy/](http://infohound.net/tidy/) | -
 Groovy Meta Generator | [http://www.groovymeta.com/](http://www.groovymeta.com/) | -
 
@@ -59,9 +60,10 @@ Groovy Meta Generator | [http://www.groovymeta.com/](http://www.groovymeta.com/)
 
  名称 | 网址 | 说明
 ------ | ------ | ------
-在线LESS CSS编译器 | [http://tool.oschina.net/less](http://tool.oschina.net/less) | -
-CSS Validation Service | [http://jigsaw.w3.org/css-validator/](http://jigsaw.w3.org/css-validator/) | -
-CSS Lint | [http://csslint.net/](http://csslint.net/) | -
+Less to CSS | [http://tool.oschina.net/less](http://tool.oschina.net/less) | 在线LESS CSS编译器
+Browser CSS-Selector-Test | [http://css4-selectors.com/browser-selector-test/](http://css4-selectors.com/browser-selector-test/) | check how well your browser supports the CSS selectors from level 1 up to the upcoming level 4
+CSS Validation Service | [http://jigsaw.w3.org/css-validator/](http://jigsaw.w3.org/css-validator/) | W3C CSS 验证服务
+CSS Lint | [http://csslint.net/](http://csslint.net/) | The CSS Code Quality Tool
 CSS EASING ANIMATION TOOL | [http://matthewlein.com/ceaser/](http://matthewlein.com/ceaser/) | -
 CSS3 Generator | [http://css3generator.com/](http://css3generator.com/) | -
 CSS Border Radius | [http://border-radius.com/](http://border-radius.com/) | -
@@ -75,7 +77,7 @@ Responsive Design Testing | [http://mattkersley.com/responsive/](http://mattkers
 
  名称 | 网址 | 说明
 ------ | ------ | ------
-JSLint,The JavaScript Code Quality Tool | [http://www.jslint.com/](http://www.jslint.com/) | -
+JSLint | [http://www.jslint.com/](http://www.jslint.com/) | The JavaScript Code Quality Tool
 Online JavaScript beautifier | [http://jsbeautifier.org/](http://jsbeautifier.org/) | -
 JS Compatibility Checker | [http://jscc.info/](http://jscc.info/) | -
 JSON Generator | [http://www.json-generator.com/](http://www.json-generator.com/) | Tool for generating random data
@@ -92,6 +94,7 @@ Maze Generator | [http://www.mazegenerator.net/](http://www.mazegenerator.net/) 
 
  名称 | 网址 | 说明
 ------ | ------ | ------
+TinyPNG | [https://tinypng.com/](https://tinypng.com/) | Compress PNG images while preserving transparency（[在线PNG图片压缩工具](http://www.egouz.com/topics/9839.html)）
 智图 | [http://zhitu.tencent.com/](http://zhitu.tencent.com/) | 图片优化平台
 
 - Debug Tool
@@ -151,6 +154,8 @@ Closure Compiler | [https://developers.google.com/closure/compiler/](https://dev
 - [对 JavaScript 进行单元测试的工具](http://www.ibm.com/developerworks/cn/web/wa-tools/index.html)（2012.10.29）
 
 - [12 个开发人员的实用代码编辑器](http://www.open-open.com/news/view/e8523a)（2012.12.27）
+
+- [12款实用免费批量图片体积优化压缩工具！网页设计必备 (在线网页版+桌面工具下载)](http://www.iplaysoft.com/image-optimization-tools.html)（2013.12.02）
 
 - [美化代码的15个代码语法高亮工具](http://www.csdn.net/article/2013-09-04/2816818-15-Code-Syntax-Highlighters-To-Prettify-Your-Code)（2013.09.05）
 
