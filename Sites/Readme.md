@@ -24,6 +24,7 @@ OurJS | [http://ourjs.com/](http://ourjs.com/) | 爱我技术
 前端开发仓库 | [http://code.ciaoca.com/](http://code.ciaoca.com/) | Code for Web Developer
 素材中国17素材网 | [http://www.17sucai.com/](http://www.17sucai.com/) | 素材中国一流的中国素材网站，提供优质的图片素材和代码素材的素材天下素材网
 Spark创意火花集 | [http://spark.tencent.com/](http://spark.tencent.com/) | 创意集
+程序员年终总结 | [http://wyvernnot.github.io/2014_review/](http://wyvernnot.github.io/2014_review/) | 用心搜集程序员们的年终总结
 
 ### weekly & daily
 

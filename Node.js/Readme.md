@@ -7,6 +7,7 @@ The Node Way | [http://thenodeway.io/](http://thenodeway.io/) | Your Guide to Bu
 Awesome Node.js | [https://github.com/sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) | -
 CNode | [https://cnodejs.org/](https://cnodejs.org/) | Node.js专业中文社区
 中文资料导航 | [https://github.com/youyudehexie/node123](https://github.com/youyudehexie/node123) | -
+红豆园 | [http://yuan.rednode.cn/](http://yuan.rednode.cn/) | Node.js资源中心
 Node入门 | [http://www.nodebeginner.org/index-zh-cn.html](http://www.nodebeginner.org/index-zh-cn.html) | 一本适合Node.js初学者的全面教程
 七天学会NodeJS | [http://nqdeng.github.io/7-days-nodejs/](http://nqdeng.github.io/7-days-nodejs/) | -
 从零开始nodejs系列文章 | [http://blog.fens.me/series-nodejs/](http://blog.fens.me/series-nodejs/) | -
@@ -36,3 +37,5 @@ Nodemailer | [http://www.nodemailer.com/](http://www.nodemailer.com/) | Send e-m
 ### articles
 
 - [Node.JS + MongoDB技术讲座](http://wenku.baidu.com/view/41d560433b3567ec102d8aba.html)（NODEJS魔乐科技）
+
+- [针对 Node.js 初学者的入门资源汇总](http://blog.jobbole.com/17174/)（2013.04.08）
