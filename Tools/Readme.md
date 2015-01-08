@@ -2,10 +2,11 @@
 
  名称 | 网址 | 说明
 ------ | ------ | ------
-A List of Foundational JavaScript Tools | [https://github.com/codefellows/jstools](https://github.com/codefellows/jstools) | -
-tools & resources for web professionals | [http://www.westciv.com/tools/index.html](http://www.westciv.com/tools/index.html) | Style Master CSS Editor for Windows and Mac OS X）
-Javascript development tools - resources | [(http://clausreinke.github.io/js-tools/resources.html)](http://clausreinke.github.io/js-tools/resources.html) | -
-Free Online Tools For Developers | [http://www.freeformatter.com/](http://www.freeformatter.com/) | -
+Front-end Tools | [https://github.com/codylindley/frontend-tools](https://github.com/codylindley/frontend-tools) | Landscaping With Front-end Tools
+JavaScript Tools | [https://github.com/codefellows/jstools](https://github.com/codefellows/jstools) | A List of Foundational JavaScript Tools
+JS-Tools-Resources | [http://clausreinke.github.io/js-tools/resources.html](http://clausreinke.github.io/js-tools/resources.html) | Javascript development tools resources
+FreeFormatter | [http://www.freeformatter.com/](http://www.freeformatter.com/) | Free Online Tools For Developers
+tools & resources for web professionals | [http://www.westciv.com/tools/index.html](http://www.westciv.com/tools/index.html) | Style Master CSS Editor for Windows and Mac OS X
 oschina在线工具索引 | [http://tool.oschina.net/](http://tool.oschina.net/) | -
 脚本之家在线工具 | [http://tools.jb51.net/](http://tools.jb51.net/) | -
 
