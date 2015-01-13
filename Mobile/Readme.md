@@ -2,8 +2,9 @@
 
  名称 | 网址 | 说明
 ------ | ------ | ------
-Mobile Tech | [https://github.com/jtyjty99999/mobileTech](https://github.com/jtyjty99999/mobileTech) | A useful tools or tips list for mobile web application developing
 Mars | [https://github.com/AlloyTeam/Mars](https://github.com/AlloyTeam/Mars) | 腾讯移动Web前端知识库
+Mobile Tech | [https://github.com/jtyjty99999/mobileTech](https://github.com/jtyjty99999/mobileTech) | A useful tools or tips list for mobile web application developing
+mobile web favorites | [https://github.com/hoosin/mobile-web-favorites](https://github.com/hoosin/mobile-web-favorites) | 移动前端开发大杂烩，基于 mobileTech 上完善
 Touch Events | [http://www.w3.org/TR/touch-events/](http://www.w3.org/TR/touch-events/) | 移动端Touch事件
 
 ### frameworks & libraries
