@@ -78,6 +78,8 @@ Angular.js | [https://angularjs.org/](https://angularjs.org/) | Superheroic Java
 
 - [聂微东：我的Web前端之路](http://blog.jobbole.com/990/)（2011.06.29）
 
+- [12种JavaScript MVC框架之比较](http://www.infoq.com/cn/news/2012/05/js-mvc-framework/)（2012.05.29）
+
 - [如何成为一名优秀的web前端工程师](http://blog.jobbole.com/30760/)（2013.04.17）
 
 - [Limu：JavaScript的那些书](http://blog.jobbole.com/8087/)（2013.05.02）
@@ -113,3 +115,5 @@ Angular.js | [https://angularjs.org/](https://angularjs.org/) | Superheroic Java
 - [jQuery Coding Standards & Best Practices](http://lab.abhinayrathore.com/jquery-standards/)（2014.10.14）
 
 - [JavaScript继承方式详解](http://segmentfault.com/blog/trigkit4/1190000002440502)（2014.12.23）
+
+- [2014年JavaScript回顾](http://www.infoq.com/cn/news/2015/01/javascript-2014-review)（2015.01.11）
