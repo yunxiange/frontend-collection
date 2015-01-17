@@ -20,6 +20,7 @@ Google Developers | [https://developers.google.com/](https://developers.google.c
 Microsoft Developer Network | [http://msdn.microsoft.com/](http://msdn.microsoft.com/) | -
 Yahoo Developer Network | [https://developer.yahoo.com/](https://developer.yahoo.com/) | -
 IBM Developer Network | [http://www.ibm.com/developerworks/](http://www.ibm.com/developerworks/) | -
+CSS Browserhacks | [http://browserhacks.com/](http://browserhacks.com/) | an extensive list of browser specific CSS and JavaScript hacks from all over the interwebs
 Bento | [https://www.bento.io/](https://www.bento.io/) | Learn to code the way professional programmers do
 SitePoint | [http://www.sitepoint.com/](http://www.sitepoint.com/) | Learn HTML, CSS, JavaScript, PHP, Ruby & Responsive Design
 Modern Web | [http://modernweb.com/](http://modernweb.com/) | -
