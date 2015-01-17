@@ -156,16 +156,16 @@ YHD UED | [http://ued.yhd.com/blog](http://ued.yhd.com/blog) | 1号店UED - 只�
  名称 | 网址 | 说明
 ------ | ------ | ------
 酷壳 – CoolShell.cn | [http://coolshell.cn/](http://coolshell.cn/) | 阿里左耳朵耗子，享受编程和技术所带来的快乐
-W3CPlus | css3教程-css3实例-css3动画 | 记述前端那些事——引领Web前沿 | [http://www.w3cplus.com/](http://www.w3cplus.com/) | 大漠，携程前端工程师
+W3CPlus | [http://www.w3cplus.com/](http://www.w3cplus.com/) | 大漠，携程前端工程师
 阮一峰的个人网站 - Ruan YiFeng's Personal Website | [http://www.ruanyifeng.com/](http://www.ruanyifeng.com/) | 阮一峰，阿里杭州前端工程师
 张鑫旭-鑫空间-鑫生活 | [http://www.zhangxinxu.com/](http://www.zhangxinxu.com/) | 张鑫旭，腾讯上海ISUX前端工程师
 CSS森林 | [http://www.cssforest.org/](http://www.cssforest.org/) | 鬼哥，腾讯深圳页面重构工程师
-彬Go的个人网站 - 前端开发工程师|前端开发主管 | [http://www.bingo929.com/](http://www.bingo929.com/) | -
-前端观察 | 专注于网站前端设计与前端开发 | [http://www.qianduan.net/](http://www.qianduan.net/) | 神飞，腾讯深圳微信设计团队
-Twinsen Liang-je m' appelle twinsèn. | [http://www.twinsenliang.net/](http://www.twinsenliang.net/) | -
+彬Go的个人网站 | [http://www.bingo929.com/](http://www.bingo929.com/) | 人人网前端开发主管
+前端观察：专注于网站前端设计与前端开发 | [http://www.qianduan.net/](http://www.qianduan.net/) | 神飞，腾讯深圳微信设计团队
+Twinsen | [http://www.twinsenliang.net/](http://www.twinsenliang.net/) | Liang-je m' appelle twinsèn.
 Kejun's Blog | [http://hikejun.com/blog/](http://hikejun.com/blog/) | 张克军，豆瓣前端工程师
 hax的技术部落格 - ITeye技术网站 | [http://hax.iteye.com/](http://hax.iteye.com/) | [贺师俊](http://johnhax.net/)，百姓网前端工程师
-老赵点滴- 追求编程之美 | [http://blog.zhaojie.me/](http://blog.zhaojie.me/)
+老赵点滴- 追求编程之美 | [http://blog.zhaojie.me/](http://blog.zhaojie.me/) | 老赵
 winter-cn - 博客园 | [http://winter-cn.cnblogs.com/](http://winter-cn.cnblogs.com/) | [寒冬winter](https://github.com/wintercn/blog/issues)，阿里无线开发工程师
 @Jayli | [http://jayli.github.io/blog/](http://jayli.github.io/blog/) | 李晶，花名拔赤，淘宝前端开发工程师
 @lifesinger | [https://github.com/lifesinger/lifesinger.github.com/issues](https://github.com/lifesinger/lifesinger.github.com/issues) | 花名玉伯，支付宝前端开发工程师
@@ -181,10 +181,10 @@ WEB前端开发 - 专注前端开发，关注用户体验 | [http://css88.com](h
 米随随 | [http://s5s5.me/](http://s5s5.me/) | 腾讯成都ISUX
 为之漫笔 | [http://www.cn-cuckoo.com](http://www.cn-cuckoo.com) | 李松峰，图灵出版社译者
 Wu Duoyi's Note | [http://wuduoyi.com/](http://wuduoyi.com/) | 吴多益，百度前端开发工程师
-颜海镜 | [http://yanhaijing.com/](http://yanhaijing.com/) | -
-justjavac(迷渡) | [http://justjavac.com/](http://justjavac.com/) | -
-汤姆大叔 | [http://www.cnblogs.com/TomXu/](http://www.cnblogs.com/TomXu/) | -
-叶小钗 | [http://www.cnblogs.com/yexiaochai/](http://www.cnblogs.com/yexiaochai/) | -
+颜海镜 | [http://yanhaijing.com/](http://yanhaijing.com/) | 百度前端工程师
+justjavac | [http://justjavac.com/](http://justjavac.com/) | 迷渡
+汤姆大叔 | [http://www.cnblogs.com/TomXu/](http://www.cnblogs.com/TomXu/) | 博主译者
+叶小钗 | [http://www.cnblogs.com/yexiaochai/](http://www.cnblogs.com/yexiaochai/) | 前端开发工程师
 粉丝日志 | [http://blog.fens.me/](http://blog.fens.me/) | 跨界的IT博客|Hadoop家族, R, RHadoop, Nodejs, AngularJS, KVM, NoSQL, IT金融
 小胡子哥 | [http://barretlee.com/](http://barretlee.com/) | 阿里前端开发工程师
 于江水 | [http://yujiangshui.com/](http://yujiangshui.com/) | 淘宝UED前端开发工程师
