@@ -53,6 +53,7 @@ EditPlus | [https://www.editplus.com/](https://www.editplus.com/) | Text editor 
 
  名称 | 网址 | 说明
 ------ | ------ | ------
+HTML5test | [http://html5test.com/](http://html5test.com/) | how well does your browser support html5?
 Markup Validation Service | [http://validator.w3.org/](http://validator.w3.org/) | The W3C Markup Validation Service
 HTML Tidy | [http://infohound.net/tidy/](http://infohound.net/tidy/) | -
 Groovy Meta Generator | [http://www.groovymeta.com/](http://www.groovymeta.com/) | -
