@@ -165,7 +165,7 @@ CSS森林 | [http://www.cssforest.org/](http://www.cssforest.org/) | [http://wei
 Smallni's blog - 关注用户体验，记录前端生活 | [http://www.smallni.com/](http://www.smallni.com/) | [http://weibo.com/nidear](http://weibo.com/nidear) | 丁小倪，腾讯互动娱乐重构工程师
 Twinsen | [http://www.twinsenliang.net/](http://www.twinsenliang.net/) | - | Liang-je m' appelle twinsèn.
 米随随 | [http://s5s5.me/](http://s5s5.me/) | - | 腾讯成都ISUX
-酷壳 – CoolShell.cn | [http://coolshell.cn/](http://coolshell.cn/) | [http://weibo.com/p/1005051401880315](http://weibo.com/p/1005051401880315) | 阿里左耳朵耗子，享受编程和技术所带来的快乐
+酷壳 – CoolShell.cn | [http://coolshell.cn/](http://coolshell.cn/) | [http://weibo.com/haoel](http://weibo.com/haoel) | 阿里左耳朵耗子，享受编程和技术所带来的快乐
 Ruan YiFeng's Personal Website | [http://www.ruanyifeng.com/](http://www.ruanyifeng.com/) | [http://weibo.com/ruanyf](http://weibo.com/ruanyf) | 阮一峰，阿里杭州前端工程师
 老赵点滴- 追求编程之美 | [http://blog.zhaojie.me/](http://blog.zhaojie.me/) | [http://weibo.com/u/1560442584](http://weibo.com/u/1560442584) | 老赵
 winter-cn - 博客园 | [http://winter-cn.cnblogs.com/](http://winter-cn.cnblogs.com/) | [http://weibo.com/wintercn](http://weibo.com/wintercn) | [寒冬winter](https://github.com/wintercn/blog/issues)，阿里无线开发工程师
