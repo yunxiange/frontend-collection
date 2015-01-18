@@ -53,12 +53,11 @@ Angular.js | [https://angularjs.org/](https://angularjs.org/) | Superheroic Java
 《DOM Scripting：Web Design with JavaScript and the Document Object Model》（ 2nd Edition） | [http://book.douban.com/subject/5436113/](http://book.douban.com/subject/5436113/) | 2010.12，Friends of Ed
 《Secrets of the JavaScript Ninja》 | [http://book.douban.com/subject/3176860/](http://book.douban.com/subject/3176860/) | 2012.11，Manning Publications
 《JavaScript: The Definitive Guide, 6th Edition》 | [http://book.douban.com/subject/5303032/](http://book.douban.com/subject/5303032/) | 2011.03，O'Reilly Media
-《JavaScript Web Applications》 | [http://book.douban.com/subject/6805476/](http://book.douban.com/subject/6805476/) | 2011.08，O'Reilly Media
 《Professional JavaScript for Web Developers》（3rd Edition） | [http://book.douban.com/subject/7157249/](http://book.douban.com/subject/7157249/) | 2012.01，Wrox
 《Maintainable JavaScript》 | [http://book.douban.com/subject/10547007/](http://book.douban.com/subject/10547007/) | 2012.06，O'Reilly Media
 《Learning JavaScript Design Patterns》 | [http://book.douban.com/subject/10750116/](http://book.douban.com/subject/10750116/) | 2012.08，O'Reilly Media
 《Async JavaScript: Build More Responsive Apps with Less Code》 | [http://book.douban.com/subject/21357366/](http://book.douban.com/subject/21357366/) | 2012.11，Pragmatic Programmers
-《Data Structures and Algorithms with JavaScript》 | [http://book.douban.com/subject/25790981/](http://book.douban.com/subject/25790981/) | 2014.02，O'Reilly Media
+《Data Structures and Algorithms with JavaScript》（数据结构与算法：JavaScript描述） | [http://book.douban.com/subject/25790981/](http://book.douban.com/subject/25790981/) | 2014.02，O'Reilly Media
 《Speaking JavaScript：An In-Depth Guide for Programmers》 | [http://shop.oreilly.com/product/0636920029564.do](http://shop.oreilly.com/product/0636920029564.do) | 2014.02，O'Reilly Media
 《JavaScript启示录》 | [http://book.douban.com/subject/25837367/](http://book.douban.com/subject/25837367/) | 2014.03，人民邮电出版社
 《JavaScript编程实战》 | [http://book.douban.com/subject/25840617/](http://book.douban.com/subject/25840617/) | 2014.03，人民邮电出版社
@@ -78,11 +77,11 @@ Angular.js | [https://angularjs.org/](https://angularjs.org/) | Superheroic Java
 
 - [聂微东：我的Web前端之路](http://blog.jobbole.com/990/)（2011.06.29）
 
-- [12种JavaScript MVC框架之比较](http://www.infoq.com/cn/news/2012/05/js-mvc-framework/)（2012.05.29）
-
 - [如何成为一名优秀的web前端工程师](http://blog.jobbole.com/30760/)（2013.04.17）
 
 - [Limu：JavaScript的那些书](http://blog.jobbole.com/8087/)（2013.05.02）
+
+- [12种JavaScript MVC框架之比较](http://www.infoq.com/cn/news/2012/05/js-mvc-framework/)（2012.05.29）
 
 - [JavaScript必知必会+理解总结](http://blog.jobbole.com/39571/)（2013.06.17）
 

@@ -19,9 +19,12 @@ Blueprints | [http://tympanus.net/codrops/category/blueprints/](http://tympanus.
  名称 | 网址 | 说明
 ------ | ------ | ------
 《JavaScript设计模式》 | [http://book.douban.com/subject/3329540/](http://book.douban.com/subject/3329540/) | 2008，人民邮电出版社
+《编写高质量代码：Web前端开发修炼之道》 | [http://book.douban.com/subject/4881987/](http://book.douban.com/subject/4881987/) | 2010.05，机械工业出版社
+《JavaScript Web Applications》（基于MVC的JavaScript Web富应用开发） | [http://book.douban.com/subject/6805476/](http://book.douban.com/subject/6805476/) | 2011.08，O'Reilly Media
 《Learning JavaScript Design Patterns》 | [http://book.douban.com/subject/10750116/](http://book.douban.com/subject/10750116/) | 2012.08，O'Reilly Media
 《Data Structures and Algorithms with JavaScript》 | [http://book.douban.com/subject/25790981/](http://book.douban.com/subject/25790981/) | 2014.02，O'Reilly Media
 《JavaScript框架设计》 | [http://book.douban.com/subject/25858070/](http://book.douban.com/subject/25858070/) | 2014.04，人民邮电出版社
+《Web前端开发最佳实践》 | [http://product.china-pub.com/3770903](http://product.china-pub.com/3770903) | 2015.01，机械工业出版社
 
 ### articles
 
