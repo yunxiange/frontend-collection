@@ -39,6 +39,7 @@ Object-Oriented CSS | [http://oocss.org/](http://oocss.org/) | CSS面向对象�
 《响应式Web设计: HTML5和CSS3实战》| [http://book.douban.com/subject/20390374/](http://book.douban.com/subject/20390374/) | 2013.01，人民邮电出版社
 《高流量网站CSS开发技术》| [http://book.douban.com/subject/25719314/](http://book.douban.com/subject/25719314/) | 2013.10，人民邮电出版社
 《Sass和Compass设计师指南》 | [http://book.douban.com/subject/25857991/](http://book.douban.com/subject/25857991/) | 2014.04，华中科技大学出版社
+《Sass与Compass实战》 | [http://book.douban.com/subject/25874874/](http://book.douban.com/subject/25874874/) | 2014.04，人民邮电出版社
 
 ### articles
 
