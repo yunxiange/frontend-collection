@@ -68,6 +68,8 @@ OpenParty | [http://www.beijing-open-party.org/](http://www.beijing-open-party.o
  名称 | 网址 | 说明
 ------ | ------ | ------
 SegmentFault | [http://segmentfault.com/](http://segmentfault.com/) | 最前沿的技术问答，最纯粹的技术切磋，国内版Stack Overflow
+知乎 | [http://www.zhihu.com/](http://www.zhihu.com/) | 纯粹社区，内容包罗万象
+慕课网 | [http://www.imooc.com/](http://www.imooc.com/) | 国内最大的IT技能学习平台
 前端乱炖 | [http://www.html-js.com/](http://www.html-js.com/) | 最专业的前端技术内容社区
 w3ctech | [http://www.w3ctech.com/](http://www.w3ctech.com/) | 中国最大的前端技术社区
 慕课网 | [http://www.imooc.com/](http://www.imooc.com/) | 免费的IT技能学习平台
@@ -117,14 +119,6 @@ TGideas | [http://tgideas.qq.com/](http://tgideas.qq.com/) | 游戏官方设计�
 MXD | [http://mxd.tencent.com/](http://mxd.tencent.com/) | 移动互联网设计中心
 TID | [http://tid.tenpay.com/](http://tid.tenpay.com/) | 财付通设计中心，让生活支付更完美
 
-#### 搜狐系
-
- 名称 | 网址 | 说明
------- | ------ | ------
-MUED | [http://mued.sohu.com/](http://mued.sohu.com/) | Mobile User Experience Design
-焦点UED | [http://ued.focus.cn/wordpress/](http://ued.focus.cn/wordpress/) | -
-畅游UED | [http://vc.changyou.com/](http://vc.changyou.com/) | Changyou Visual Center
-
 #### 新浪系
 
  名称 | 网址 | 说明
@@ -132,6 +126,14 @@ MUED | [http://mued.sohu.com/](http://mued.sohu.com/) | Mobile User Experience D
 新浪UED | [http://ued.sina.com/](http://ued.sina.com/) | 以用户为中心的设计理念，以提升产品的用户体验为使命，追求“极简主义”的设计理念，负责所有新浪产品的视觉，交互，用研方面的工作，并致力于做业内最优秀，体验最好的产品为己任
 微博UDC | [http://udc.weibo.com/](http://udc.weibo.com/) | 让设计无“微”不至
 乐居UCD | [http://ued.leju.com/](http://ued.leju.com/) | - 
+
+#### 搜狐系
+
+ 名称 | 网址 | 说明
+------ | ------ | ------
+MUED | [http://mued.sohu.com/](http://mued.sohu.com/) | Mobile User Experience Design
+焦点UED | [http://ued.focus.cn/wordpress/](http://ued.focus.cn/wordpress/) | -
+畅游UED | [http://vc.changyou.com/](http://vc.changyou.com/) | Changyou Visual Center
 
 #### 网易系
 
@@ -165,6 +167,7 @@ CSS森林 | [http://www.cssforest.org/](http://www.cssforest.org/) | [http://wei
 Smallni's blog - 关注用户体验，记录前端生活 | [http://www.smallni.com/](http://www.smallni.com/) | [http://weibo.com/nidear](http://weibo.com/nidear) | 丁小倪，腾讯互动娱乐重构工程师
 Twinsen | [http://www.twinsenliang.net/](http://www.twinsenliang.net/) | [http://weibo.com/u/1214620375](http://weibo.com/u/1214620375) | Liang-je m' appelle twinsèn
 米随随 | [http://s5s5.me/](http://s5s5.me/) | [http://weibo.com/s5s5](http://weibo.com/s5s5) | 腾讯成都ISUX
+轩枫阁 | [http://www.xuanfengge.com/](http://www.xuanfengge.com/) | [http://weibo.com/xuanfengge](http://weibo.com/xuanfengge) | 腾讯前端工程师
 酷壳 – CoolShell.cn | [http://coolshell.cn/](http://coolshell.cn/) | [http://weibo.com/haoel](http://weibo.com/haoel) | 阿里左耳朵耗子，享受编程和技术所带来的快乐
 Ruan YiFeng's Personal Website | [http://www.ruanyifeng.com/](http://www.ruanyifeng.com/) | [http://weibo.com/ruanyf](http://weibo.com/ruanyf) | 阮一峰，阿里杭州前端工程师
 老赵点滴- 追求编程之美 | [http://blog.zhaojie.me/](http://blog.zhaojie.me/) | [http://weibo.com/u/1560442584](http://weibo.com/u/1560442584) | 老赵
