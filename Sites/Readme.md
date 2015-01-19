@@ -163,8 +163,8 @@ CSS森林 | [http://www.cssforest.org/](http://www.cssforest.org/) | [http://wei
 前端观察：专注于网站前端设计与前端开发 | [http://www.qianduan.net/](http://www.qianduan.net/) | - | 神飞，腾讯深圳微信设计团队
 张鑫旭-鑫空间-鑫生活 | [http://www.zhangxinxu.com/](http://www.zhangxinxu.com/) | [http://weibo.com/zhangxinxu](http://weibo.com/zhangxinxu) | 张鑫旭，腾讯上海ISUX前端工程师
 Smallni's blog - 关注用户体验，记录前端生活 | [http://www.smallni.com/](http://www.smallni.com/) | [http://weibo.com/nidear](http://weibo.com/nidear) | 丁小倪，腾讯互动娱乐重构工程师
-Twinsen | [http://www.twinsenliang.net/](http://www.twinsenliang.net/) | - | Liang-je m' appelle twinsèn.
-米随随 | [http://s5s5.me/](http://s5s5.me/) | - | 腾讯成都ISUX
+Twinsen | [http://www.twinsenliang.net/](http://www.twinsenliang.net/) | [http://weibo.com/u/1214620375](http://weibo.com/u/1214620375) | Liang-je m' appelle twinsèn
+米随随 | [http://s5s5.me/](http://s5s5.me/) | [http://weibo.com/s5s5](http://weibo.com/s5s5) | 腾讯成都ISUX
 酷壳 – CoolShell.cn | [http://coolshell.cn/](http://coolshell.cn/) | [http://weibo.com/haoel](http://weibo.com/haoel) | 阿里左耳朵耗子，享受编程和技术所带来的快乐
 Ruan YiFeng's Personal Website | [http://www.ruanyifeng.com/](http://www.ruanyifeng.com/) | [http://weibo.com/ruanyf](http://weibo.com/ruanyf) | 阮一峰，阿里杭州前端工程师
 老赵点滴- 追求编程之美 | [http://blog.zhaojie.me/](http://blog.zhaojie.me/) | [http://weibo.com/u/1560442584](http://weibo.com/u/1560442584) | 老赵
@@ -178,12 +178,12 @@ PlanABC – 怿飞’s Blog | [http://www.planabc.net/](http://www.planabc.net/)
 于江水 | [http://yujiangshui.com/](http://yujiangshui.com/) | [http://weibo.com/u/2945647940](http://weibo.com/u/2945647940) | 淘宝UED前端开发工程师
 小雪 | [http://wileam.com/](http://wileam.com/) | [http://weibo.com/u/1508913647](http://weibo.com/u/1508913647) | 阿里前端开发工程师
 冰山一角 | [http://cnberg.com/](http://cnberg.com/) | [http://weibo.com/u/1641544291](http://weibo.com/u/1641544291) | berg，百度前端开发工程师
-宅居 | [http://otakustay.com/](http://otakustay.com/) | - | 做技术最好的宅，或者最宅的技术
+宅居 | [http://otakustay.com/](http://otakustay.com/) | [http://weibo.com/u/2087024342](http://weibo.com/u/2087024342) | 做技术最好的宅，或者最宅的技术
 颜海镜 | [http://yanhaijing.com/](http://yanhaijing.com/) | [http://weibo.com/u/1649383554](http://weibo.com/u/1649383554) | 百度前端工程师
 三水清 | [http://js8.in/](http://js8.in/) | [http://weibo.com/u/2037334587](http://weibo.com/u/2037334587) | 百度前端开发工程师
 Wu Duoyi's Note | [http://wuduoyi.com/](http://wuduoyi.com/) | [http://weibo.com/nwind](http://weibo.com/nwind) | 吴多益，百度前端开发工程师
 博客歪歪-袁源(歪歪的个人博客) | [http://www.bokeyy.com/](http://www.bokeyy.com/) | [http://weibo.com/u/1085945040](http://weibo.com/u/1085945040) | 百度前端开发工程师
-hax的技术部落格 - ITeye技术网站 | [http://hax.iteye.com/](http://hax.iteye.com/) | [http://johnhax.net/](http://johnhax.net/) | [http://weibo.com/haxy](http://weibo.com/haxy) | 贺师俊，百姓网前端工程师
+hax的技术部落格 - ITeye技术网站 | [http://hax.iteye.com/](http://hax.iteye.com/) | [http://weibo.com/haxy](http://weibo.com/haxy) | [贺师俊](http://johnhax.net/)，百姓网前端工程师
 CSS魔法 | [https://github.com/cssmagic/blog/issues](https://github.com/cssmagic/blog/issues) | [http://weibo.com/cssmagic](http://weibo.com/cssmagic) | 百姓网前端开发工程师
 民工精髓 | [https://github.com/xufei/blog/issues](https://github.com/xufei/blog/issues) | [http://weibo.com/sharpmaster](http://weibo.com/sharpmaster) | 徐飞，苏宁前端开发工程师
 Kejun's Blog | [http://hikejun.com/blog/](http://hikejun.com/blog/) | [http://weibo.com/kejunz](http://weibo.com/kejunz) | 张克军，豆瓣前端工程师
