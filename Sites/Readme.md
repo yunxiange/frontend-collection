@@ -160,12 +160,14 @@ YHD UED | [http://ued.yhd.com/blog](http://ued.yhd.com/blog) | 1号店UED - 只�
 为之漫笔 | [http://www.cn-cuckoo.com](http://www.cn-cuckoo.com) | [http://weibo.com/lisf](http://weibo.com/lisf) | 李松峰，图灵出版社译者
 aimingoo的专栏 | [http://blog.csdn.net/aimingoo](http://blog.csdn.net/aimingoo) | [http://weibo.com/aimingoo](http://weibo.com/aimingoo) | 周爱民，豆瓣前端架构师
 司徒正美 - 博客园 | [http://www.cnblogs.com/rubylouvre/](http://www.cnblogs.com/rubylouvre/) | [http://weibo.com/jslouvre](http://weibo.com/jslouvre) | 司徒正美，前端开发工程师
+民工精髓 | [https://github.com/xufei/blog/issues](https://github.com/xufei/blog/issues) | [http://weibo.com/sharpmaster](http://weibo.com/sharpmaster) | 徐飞，苏宁前端开发工程师
 W3CPlus | [http://www.w3cplus.com/](http://www.w3cplus.com/) | [http://weibo.com/u/1167075935](http://weibo.com/u/1167075935) | 大漠，携程前端工程师
 CSS森林 | [http://www.cssforest.org/](http://www.cssforest.org/) | [http://weibo.com/ghostzhang](http://weibo.com/ghostzhang) | 鬼哥，腾讯深圳页面重构工程师
+米粽粽 | [http://myst729.github.io/](http://myst729.github.io/) | [http://weibo.com/myst729](http://weibo.com/myst729) | 邓钢，IBM前端开发工程师
 前端观察：专注于网站前端设计与前端开发 | [http://www.qianduan.net/](http://www.qianduan.net/) | - | 神飞，腾讯深圳微信设计团队
 张鑫旭-鑫空间-鑫生活 | [http://www.zhangxinxu.com/](http://www.zhangxinxu.com/) | [http://weibo.com/zhangxinxu](http://weibo.com/zhangxinxu) | 张鑫旭，腾讯上海ISUX前端工程师
 Smallni's blog - 关注用户体验，记录前端生活 | [http://www.smallni.com/](http://www.smallni.com/) | [http://weibo.com/nidear](http://weibo.com/nidear) | 丁小倪，腾讯互动娱乐重构工程师
-Twinsen | [http://www.twinsenliang.net/](http://www.twinsenliang.net/) | [http://weibo.com/u/1214620375](http://weibo.com/u/1214620375) | Liang-je m' appelle twinsèn
+Twinsen | [http://www.twinsenliang.net/](http://www.twinsenliang.net/) | [http://weibo.com/u/1214620375](http://weibo.com/u/1214620375) | 梁璟彪，Liang-je m' appelle twinsèn
 米随随 | [http://s5s5.me/](http://s5s5.me/) | [http://weibo.com/s5s5](http://weibo.com/s5s5) | 腾讯成都ISUX
 轩枫阁 | [http://www.xuanfengge.com/](http://www.xuanfengge.com/) | [http://weibo.com/xuanfengge](http://weibo.com/xuanfengge) | 腾讯前端工程师
 酷壳 – CoolShell.cn | [http://coolshell.cn/](http://coolshell.cn/) | [http://weibo.com/haoel](http://weibo.com/haoel) | 阿里左耳朵耗子，享受编程和技术所带来的快乐
@@ -188,7 +190,6 @@ Wu Duoyi's Note | [http://wuduoyi.com/](http://wuduoyi.com/) | [http://weibo.com
 博客歪歪-袁源(歪歪的个人博客) | [http://www.bokeyy.com/](http://www.bokeyy.com/) | [http://weibo.com/u/1085945040](http://weibo.com/u/1085945040) | 百度前端开发工程师
 hax的技术部落格 - ITeye技术网站 | [http://hax.iteye.com/](http://hax.iteye.com/) | [http://weibo.com/haxy](http://weibo.com/haxy) | [贺师俊](http://johnhax.net/)，百姓网前端工程师
 CSS魔法 | [https://github.com/cssmagic/blog/issues](https://github.com/cssmagic/blog/issues) | [http://weibo.com/cssmagic](http://weibo.com/cssmagic) | 百姓网前端开发工程师
-民工精髓 | [https://github.com/xufei/blog/issues](https://github.com/xufei/blog/issues) | [http://weibo.com/sharpmaster](http://weibo.com/sharpmaster) | 徐飞，苏宁前端开发工程师
 Kejun's Blog | [http://hikejun.com/blog/](http://hikejun.com/blog/) | [http://weibo.com/kejunz](http://weibo.com/kejunz) | 张克军，豆瓣前端工程师
 吴双 | [https://github.com/classicemi/blog/issues](https://github.com/classicemi/blog/issues) | [http://weibo.com/u/1767982234](http://weibo.com/u/1767982234) | 苏宁前端开发工程师
 WEB前端开发 - 专注前端开发，关注用户体验 | [http://css88.com](http://css88.com) | [http://weibo.com/148246293](http://weibo.com/148246293) | 愚人码头
