@@ -164,7 +164,7 @@ aimingoo的专栏 | [http://blog.csdn.net/aimingoo](http://blog.csdn.net/aimingo
 W3CPlus | [http://www.w3cplus.com/](http://www.w3cplus.com/) | [http://weibo.com/u/1167075935](http://weibo.com/u/1167075935) | 大漠，携程前端工程师
 CSS森林 | [http://www.cssforest.org/](http://www.cssforest.org/) | [http://weibo.com/ghostzhang](http://weibo.com/ghostzhang) | 鬼哥，腾讯深圳页面重构工程师
 米粽粽 | [http://myst729.github.io/](http://myst729.github.io/) | [http://weibo.com/myst729](http://weibo.com/myst729) | 邓钢，IBM前端开发工程师
-前端观察：专注于网站前端设计与前端开发 | [http://www.qianduan.net/](http://www.qianduan.net/) | - | 神飞，腾讯深圳微信设计团队
+前端观察：专注于网站前端设计与前端开发 | [http://www.qianduan.net/](http://www.qianduan.net/) | [http://weibo.com/mienflying](http://weibo.com/mienflying) | 神飞，腾讯深圳微信设计团队
 张鑫旭-鑫空间-鑫生活 | [http://www.zhangxinxu.com/](http://www.zhangxinxu.com/) | [http://weibo.com/zhangxinxu](http://weibo.com/zhangxinxu) | 张鑫旭，腾讯上海ISUX前端工程师
 Smallni's blog - 关注用户体验，记录前端生活 | [http://www.smallni.com/](http://www.smallni.com/) | [http://weibo.com/nidear](http://weibo.com/nidear) | 丁小倪，腾讯互动娱乐重构工程师
 Twinsen | [http://www.twinsenliang.net/](http://www.twinsenliang.net/) | [http://weibo.com/u/1214620375](http://weibo.com/u/1214620375) | 梁璟彪，Liang-je m' appelle twinsèn
