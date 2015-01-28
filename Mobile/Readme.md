@@ -22,6 +22,7 @@ BlendUI | [https://github.com/Clouda-team/BlendUI](https://github.com/Clouda-tea
 mobilebone | [https://github.com/zhangxinxu/mobilebone](https://github.com/zhangxinxu/mobilebone) | Single Page Switching bone for mobile web APP, Hybird APP, Phonegap, ...
 sense.js | [https://github.com/ehzhang/sense-js](https://github.com/ehzhang/sense-js) | html5 sensor interaction library for mobile
 blade | [https://github.com/yexiaochai/blade](https://github.com/yexiaochai/blade) | 轻量级webapp框架
+Qmik | [https://github.com/leochen36/qmik](https://github.com/leochen36/qmik) | 一个快速和精简且功能强大的无线端JavaScript库
 Zepto.js | [http://zeptojs.com/](http://zeptojs.com/) | A minimalist JavaScript library for modern browsers with a largely jQuery-compatible API
 iScroll | [http://iscrolljs.com/](http://iscrolljs.com/) | A high performance, small footprint, dependency free, multi-platform javascript scroller
 swipe | [http://swipejs.com](http://swipejs.com) | The most accurate touch slider
