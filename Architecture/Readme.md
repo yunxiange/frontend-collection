@@ -67,3 +67,5 @@ JD前端集成解决方案 | [https://www.npmjs.com/package/jdf](https://www.npm
 - [从2014年D2前端技术论坛看前端发展趋势](http://blog.csdn.net/offbye/article/details/40561037)（2014.10.28）
 
 - [Planning A Front-end JavaScript Application](http://developer.telerik.com/featured/planning-front-end-javascript-application/)（2014.12.11）
+
+- [MVC，MVP 和 MVVM 的图示](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)（2015.02.01）
