@@ -164,3 +164,5 @@ Closure Compiler | [https://developers.google.com/closure/compiler/](https://dev
 - [Gulp挑战Grunt，背后的哲学](http://www.w3ctech.com/topic/74)（2014.07.13）
 
 - [10款最佳JavaScript 和 HTML5演示(幻灯片)框架](http://web.jobbole.com/81792/)（2014.12.26）
+
+- [Chrome 控制台不完全指南](http://web.jobbole.com/81912/)（2015.01.10）
