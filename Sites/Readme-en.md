@@ -99,3 +99,4 @@ AddyOsmani | [http://addyosmani.com/blog/](http://addyosmani.com/blog/) | An eng
 Paul Hayes | [http://paulrhayes.com/](http://paulrhayes.com/) | Design and build websites from Brighton and London
 Mike Bostock | [http://bost.ocks.org/mike/](http://bost.ocks.org/mike/) | D3.js作者
 Jason Davies | [http://www.jasondavies.com/](http://www.jasondavies.com/) | Freelance data visualisation and Computer Science
+Hugo | [http://hugogiraudel.com/](http://hugogiraudel.com/) | a front-end developer from France. CSS Goblin, Sass hacker, margin psycho
