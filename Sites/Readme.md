@@ -33,6 +33,7 @@ Spark创意火花集 | [http://spark.tencent.com/](http://spark.tencent.com/) | 
 前端周刊 | [http://www.feweekly.com/](http://www.feweekly.com/) | 聚焦最新前端技术、框架、教程、工具、资讯和文章
 奇舞周刊 | [http://www.75team.com/weekly/](http://www.75team.com/weekly/) | 领略前端技术 阅读奇舞周刊 By [75Team](http://www.75team.com/)
 码农周刊 | [http://weekly.manong.io/](http://weekly.manong.io/) | 一份专为程序员打造的IT技术周刊 By [@developerWorks](http://weibo.com/developerworks)
+Memect | [http://memect.com/](http://memect.com/) | Memeory Connected，互联最精彩的发现
 Web技术日报 | [http://web.memect.com/](http://web.memect.com/) | [@好东西传送门](http://www.weibo.com/haoawesome)出品
 编程狂人 | [http://www.tuicool.com/mags](http://www.tuicool.com/mags) | 专为IT人打造的行业技术周刊 By [tuicool](http://www.tuicool.com)
 设计匠艺 | [http://www.tuicool.com/mags/design](http://www.tuicool.com/mags/design) | 一本电子版的有关设计方面的周刊 By [tuicool](http://www.tuicool.com)
