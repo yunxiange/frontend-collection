@@ -46,6 +46,6 @@ tap.js | [https://github.com/alexgibson/tap.js](https://github.com/alexgibson/ta
 
 - [手机淘宝的flexible设计与实现](http://www.html-js.com/article/2402)（2014.10）
 
-- [浅谈移动Web开发（上）：深入概念](浅谈移动Web开发（上）：深入概念)（2014.11.15）
+- [浅谈移动Web开发（上）：深入概念](http://www.infoq.com/cn/articles/development-of-the-mobile-web-deep-concept)（2014.11.15）
 
 - [移动端前端开发调试](http://yujiangshui.com/multidevice-frontend-debug/)（2014.12.27）
