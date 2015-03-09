@@ -19,10 +19,12 @@ Pro | [https://github.com/AlloyTeam/Pro](https://github.com/AlloyTeam/Pro) | 腾
 Spirit | [https://github.com/AlloyTeam/Spirit](https://github.com/AlloyTeam/Spirit) | 腾讯移动Web整体解决方案
 Qing | [https://github.com/AlloyTeam/Qing](https://github.com/AlloyTeam/Qing) | 面向工程的移动Web前端模版
 BlendUI | [https://github.com/Clouda-team/BlendUI](https://github.com/Clouda-team/BlendUI) | 让webapp的用户界面体验和交互能和Native媲美
+saber | [https://github.com/ecomfe/saber](https://github.com/ecomfe/saber) | 模块化、组合式的移动前端框架
+rider | [https://github.com/ecomfe/rider/](https://github.com/ecomfe/rider/) | 基于 Stylus 的移动端样式库
 mobilebone | [https://github.com/zhangxinxu/mobilebone](https://github.com/zhangxinxu/mobilebone) | Single Page Switching bone for mobile web APP, Hybird APP, Phonegap, ...
-sense.js | [https://github.com/ehzhang/sense-js](https://github.com/ehzhang/sense-js) | html5 sensor interaction library for mobile
 blade | [https://github.com/yexiaochai/blade](https://github.com/yexiaochai/blade) | 轻量级webapp框架
 Qmik | [https://github.com/leochen36/qmik](https://github.com/leochen36/qmik) | 一个快速和精简且功能强大的无线端JavaScript库
+sense.js | [https://github.com/ehzhang/sense-js](https://github.com/ehzhang/sense-js) | html5 sensor interaction library for mobile
 Zepto.js | [http://zeptojs.com/](http://zeptojs.com/) | A minimalist JavaScript library for modern browsers with a largely jQuery-compatible API
 iScroll | [http://iscrolljs.com/](http://iscrolljs.com/) | A high performance, small footprint, dependency free, multi-platform javascript scroller
 swipe | [http://swipejs.com](http://swipejs.com) | The most accurate touch slider
