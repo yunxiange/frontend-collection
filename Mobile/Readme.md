@@ -7,7 +7,7 @@ Mobile Tech | [https://github.com/jtyjty99999/mobileTech](https://github.com/jty
 mobile web favorites | [https://github.com/hoosin/mobile-web-favorites](https://github.com/hoosin/mobile-web-favorites) | 移动前端开发大杂烩，基于 mobileTech 上完善
 Touch Events | [http://www.w3.org/TR/touch-events/](http://www.w3.org/TR/touch-events/) | 移动端Touch事件
 
-### frameworks & libraries
+### frameworks
 
  名称 | 网址 | 说明
 ------ | ------ | ------
@@ -24,6 +24,11 @@ rider | [https://github.com/ecomfe/rider/](https://github.com/ecomfe/rider/) | �
 mobilebone | [https://github.com/zhangxinxu/mobilebone](https://github.com/zhangxinxu/mobilebone) | Single Page Switching bone for mobile web APP, Hybird APP, Phonegap, ...
 blade | [https://github.com/yexiaochai/blade](https://github.com/yexiaochai/blade) | 轻量级webapp框架
 Qmik | [https://github.com/leochen36/qmik](https://github.com/leochen36/qmik) | 一个快速和精简且功能强大的无线端JavaScript库
+
+### libraries
+
+ 名称 | 网址 | 说明
+------ | ------ | ------
 sense.js | [https://github.com/ehzhang/sense-js](https://github.com/ehzhang/sense-js) | html5 sensor interaction library for mobile
 Zepto.js | [http://zeptojs.com/](http://zeptojs.com/) | A minimalist JavaScript library for modern browsers with a largely jQuery-compatible API
 iScroll | [http://iscrolljs.com/](http://iscrolljs.com/) | A high performance, small footprint, dependency free, multi-platform javascript scroller
