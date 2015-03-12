@@ -6,6 +6,7 @@ Design Patterns in Javascript| [http://tcorral.github.io/Design-Patterns-in-Java
 Learning JavaScript Design Patterns| [http://addyosmani.com/resources/essentialjsdesignpatterns/book/](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) | -
 JavaScript Patterns Collection| [http://shichuan.github.io/javascript-patterns/](http://shichuan.github.io/javascript-patterns/) | -
 Responsive Web Design Patterns| [http://bradfrost.github.io/this-is-responsive/patterns.html](http://bradfrost.github.io/this-is-responsive/patterns.html) | -
+data-structure-with-js | [https://github.com/LukeLin/data-structure-with-js](https://github.com/LukeLin/data-structure-with-js) | -
 
 ### solutions
 
