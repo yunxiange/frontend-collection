@@ -12,3 +12,4 @@ jQuery JavaScript Library | [https://github.com/jquery](https://github.com/jquer
 Angular | [https://github.com/angular](https://github.com/angular) | HTML enhanced for web apps | Google
 jsconfcn | [https://github.com/jsconfcn](https://github.com/jsconfcn) | Conferences for the JavaScript community in China | -
 CSS Conf of China | [https://github.com/css-conf](https://github.com/css-conf) | CSS Conf of China | -
+W3C HTML5 中文兴趣组 | [https://github.com/w3c-html-ig-zh](https://github.com/w3c-html-ig-zh) | W3C HTML5 中文兴趣组 | [http://www.w3.org/html/ig/zh/](http://www.w3.org/html/ig/zh/)
