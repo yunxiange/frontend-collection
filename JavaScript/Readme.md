@@ -116,3 +116,5 @@ Angular.js | [https://angularjs.org/](https://angularjs.org/) | Superheroic Java
 - [JavaScript继承方式详解](http://segmentfault.com/blog/trigkit4/1190000002440502)（2014.12.23）
 
 - [2014年JavaScript回顾](http://www.infoq.com/cn/news/2015/01/javascript-2014-review)（2015.01.11）
+
+- [2015 前端[JS]工程师必知必会](http://zhuanlan.zhihu.com/FrontendMagazine/20002850)（2015.04.14）
