@@ -56,3 +56,5 @@ tap.js | [https://github.com/alexgibson/tap.js](https://github.com/alexgibson/ta
 - [浅谈移动Web开发（上）：深入概念](http://www.infoq.com/cn/articles/development-of-the-mobile-web-deep-concept)（2014.11.15）
 
 - [移动端前端开发调试](http://yujiangshui.com/multidevice-frontend-debug/)（2014.12.27）
+
+- [2015年移动Web／HybridApp开发技能列表](http://blog.csdn.net/offbye/article/details/45114851)（2015.04.18）
