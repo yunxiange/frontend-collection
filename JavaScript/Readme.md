@@ -118,3 +118,5 @@ Angular.js | [https://angularjs.org/](https://angularjs.org/) | Superheroic Java
 - [2014年JavaScript回顾](http://www.infoq.com/cn/news/2015/01/javascript-2014-review)（2015.01.11）
 
 - [2015 前端[JS]工程师必知必会](http://zhuanlan.zhihu.com/FrontendMagazine/20002850)（2015.04.14）
+
+- [重新介绍 JavaScript（JS 教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)（2015.05.12）

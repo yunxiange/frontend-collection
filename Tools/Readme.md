@@ -167,3 +167,5 @@ Closure Compiler | [https://developers.google.com/closure/compiler/](https://dev
 - [10款最佳JavaScript 和 HTML5演示(幻灯片)框架](http://web.jobbole.com/81792/)（2014.12.26）
 
 - [Chrome 控制台不完全指南](http://web.jobbole.com/81912/)（2015.01.10）
+
+- [Mac 开发配置手册](http://aaaaaashu.gitbooks.io/mac-dev-setup/content/index.html)（2015.05.12）
