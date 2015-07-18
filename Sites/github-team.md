@@ -8,6 +8,7 @@ Clouda-team | [https://github.com/Clouda-team](https://github.com/Clouda-team) |
 云生态-技术步道Team | [https://github.com/evangelist-baidu](https://github.com/evangelist-baidu) | - | Baidu
 kissyteam | [https://github.com/kissyteam](https://github.com/kissyteam) | KISSY团队 | AliBaBa
 AlloyTeam | [https://github.com/AlloyTeam](https://github.com/AlloyTeam) | 全端 AlloyTeam 团队 | Tencent
+MLS-BIZFE | [https://github.com/bizfe](https://github.com/bizfe) | 美丽说商业前端组 | 美丽说
 jQuery JavaScript Library | [https://github.com/jquery](https://github.com/jquery) | write less, do more | [The jQuery Team](https://jquery.org/team/)
 Microsoft | [https://github.com/Microsoft](https://github.com/Microsoft) | Open source, from Microsoft with love | Microsoft
 IBM | [https://github.com/IBM](https://github.com/IBM) | International Business Machines | IBM
